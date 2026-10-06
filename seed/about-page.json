@@ -1,0 +1,22 @@
+{
+  "hero": {
+    "eyebrow": "About OCMONO",
+    "title": "Performance marketing and SaaS under one roof.",
+    "description": "OCMONO is a dual-pillar company: we generate demand with performance marketing, and we build industry SaaS — ClinicPro, MenuBip, and more — that run the business after the lead arrives.",
+    "cta": "Book a strategy call"
+  },
+  "modules": [
+    {
+      "title": "Equal dual pillars",
+      "description": "Agency growth and product software are peers — not an afterthought. Clients can buy either, or both."
+    },
+    {
+      "title": "Outcomes over aesthetics",
+      "description": "Campaigns and products are judged on leads, bookings, ROAS, and retention — craft supports the metric."
+    },
+    {
+      "title": "Optimizing Creativity, Maximizing Opportunities, Navigating Obstacles",
+      "description": "OCMONO means staying creative under constraints, spotting growth openings early, and clearing blockers fast."
+    }
+  ]
+}

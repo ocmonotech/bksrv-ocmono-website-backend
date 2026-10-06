@@ -1,0 +1,74 @@
+{
+  "category": "saas-product",
+  "title": "HRMS",
+  "slug": "hrms",
+  "description": "Hire, onboard, attend, payroll-ready workflows, and employee self-service — HR software that keeps people ops clear.",
+  "content": "<p>Human resource management for growing teams</p>",
+  "image": "/assets/img/project/project-inner-1.jpg",
+  "link": null,
+  "sort_order": 4,
+  "status": "published",
+  "meta_title": "HRMS — Coming Soon | OCMONO",
+  "meta_description": "HRMS by OCMONO: Human resource management for growing teams. Join the waitlist for early access.",
+  "capabilities_json": [
+    {
+      "icon": "users",
+      "title": "Employee directory",
+      "description": "Central profiles, roles, and org structure."
+    },
+    {
+      "icon": "calendar",
+      "title": "Attendance & leave",
+      "description": "Shifts, leave requests, and approvals in one place."
+    },
+    {
+      "icon": "list-checks",
+      "title": "Onboarding checklists",
+      "description": "Repeatable joiners workflows for every role."
+    },
+    {
+      "icon": "shield",
+      "title": "Access & compliance",
+      "description": "Role-based access for HR, managers, and staff."
+    },
+    {
+      "icon": "bar-chart",
+      "title": "People analytics",
+      "description": "Headcount and leave insights for leadership."
+    },
+    {
+      "icon": "bell",
+      "title": "Alerts",
+      "description": "Reminders for reviews, leave balances, and tasks."
+    }
+  ],
+  "saas_meta_json": {
+    "product_status": "coming_soon",
+    "tagline": "Human resource management for growing teams",
+    "industry": "HR & People Ops",
+    "accent": "#b45309",
+    "audience": "SMBs and mid-market companies scaling people operations",
+    "problem": "Spreadsheets and chat threads break as headcount grows — attendance, leave, and employee records scatter.",
+    "cta_primary": {
+      "label": "Join waitlist",
+      "href": "#waitlist"
+    },
+    "cta_secondary": {
+      "label": "Talk to us",
+      "href": "/contact?type=product-waitlist"
+    },
+    "deep_features": [
+      {
+        "title": "People ops without the chaos",
+        "text": "Give HR and managers a single system of record instead of chasing updates across tools."
+      }
+    ],
+    "pricing": null,
+    "faqs": [
+      {
+        "q": "Is payroll included at launch?",
+        "a": "Payroll-ready workflows are planned; exact modules will be confirmed with waitlist partners."
+      }
+    ]
+  }
+}

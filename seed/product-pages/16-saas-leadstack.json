@@ -1,0 +1,78 @@
+{
+  "category": "saas-product",
+  "title": "LeadStack",
+  "slug": "leadstack",
+  "description": "Capture, route, and nurture leads across email, WhatsApp, SMS, and calling — one TeleCRM-style workspace for high-intent demand.",
+  "content": "<p>Email + WhatsApp + SMS + TeleCRM lead management</p>",
+  "image": "/assets/img/project/project-inner-1.jpg",
+  "link": null,
+  "sort_order": 6,
+  "status": "published",
+  "meta_title": "LeadStack — Coming Soon | OCMONO",
+  "meta_description": "LeadStack by OCMONO: Email + WhatsApp + SMS + TeleCRM lead management. Join the waitlist for early access.",
+  "capabilities_json": [
+    {
+      "icon": "message-square",
+      "title": "Omnichannel inbox",
+      "description": "Email, WhatsApp, and SMS threads in one place."
+    },
+    {
+      "icon": "target",
+      "title": "Lead routing",
+      "description": "Assign by source, campaign, or territory instantly."
+    },
+    {
+      "icon": "bell",
+      "title": "Speed-to-lead alerts",
+      "description": "Notify agents the moment a hot lead arrives."
+    },
+    {
+      "icon": "activity",
+      "title": "TeleCRM calling",
+      "description": "Call outcomes logged against every lead."
+    },
+    {
+      "icon": "bar-chart",
+      "title": "Campaign attribution",
+      "description": "Connect ad spend to conversations and closes."
+    },
+    {
+      "icon": "workflow",
+      "title": "Nurture sequences",
+      "description": "Automated follow-ups across channels."
+    }
+  ],
+  "saas_meta_json": {
+    "product_status": "coming_soon",
+    "tagline": "Email + WhatsApp + SMS + TeleCRM lead management",
+    "industry": "Lead generation",
+    "accent": "#dc2626",
+    "audience": "Performance marketers, clinics, educators, and high-volume lead teams",
+    "problem": "Leads arrive from ads, forms, and chat — then die in disconnected inboxes. Speed-to-lead suffers and ROAS collapses.",
+    "cta_primary": {
+      "label": "Join waitlist",
+      "href": "#waitlist"
+    },
+    "cta_secondary": {
+      "label": "Talk to us",
+      "href": "/contact?type=product-waitlist"
+    },
+    "deep_features": [
+      {
+        "title": "Built for performance marketing teams",
+        "text": "Pair LeadStack with OCMONO paid media so leads are not only generated — they are contacted and converted."
+      },
+      {
+        "title": "Channel coverage that matches India",
+        "text": "WhatsApp and SMS sit beside email and calling because that is how buyers actually reply."
+      }
+    ],
+    "pricing": null,
+    "faqs": [
+      {
+        "q": "Can OCMONO run ads into LeadStack?",
+        "a": "Yes. Our performance marketing team can generate demand while LeadStack handles capture and follow-up."
+      }
+    ]
+  }
+}

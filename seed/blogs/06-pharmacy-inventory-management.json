@@ -1,0 +1,34 @@
+{
+  "title": "Pharmacy Inventory Management: A Practical Guide for Clinics",
+  "slug": "pharmacy-inventory-management-for-clinics",
+  "excerpt": "Stock-outs and expired medicines create clinical risk and revenue loss. Learn how clinics track inventory, dispensing, and reorder points in one connected workflow.",
+  "cover_image": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=1200&q=80",
+  "og_image": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=1200&q=80",
+  "author": "Dr. Rahul Verma",
+  "category": "Resources",
+  "status": "published",
+  "published_at": "2026-06-25T10:00:00",
+  "meta_title": "Pharmacy Inventory Management for Clinics | ClinicPro Guide",
+  "meta_description": "Learn pharmacy inventory best practices for clinics: stock tracking, expiry alerts, dispensing workflows, and reorder points tied to patient billing.",
+  "meta_keywords": "pharmacy inventory, clinic stock management, medicine expiry tracking, in-clinic pharmacy, dispensary software",
+  "canonical_url": "/blog/pharmacy-inventory-management-for-clinics",
+  "schema_json": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Pharmacy Inventory Management: A Practical Guide for Clinics",
+    "description": "Stock-outs and expired medicines create clinical risk and revenue loss. Learn how clinics track inventory, dispensing, and reorder points in one connected workflow.",
+    "image": ["https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=1200&q=80"],
+    "author": { "@type": "Person", "name": "Dr. Rahul Verma" },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ClinicPro by ocmono",
+      "logo": { "@type": "ImageObject", "url": "https://ocmono.com/assets/img/logo/logo-black.png" }
+    },
+    "datePublished": "2026-06-25T10:00:00+00:00",
+    "dateModified": "2026-06-25T10:00:00+00:00",
+    "mainEntityOfPage": { "@type": "WebPage", "@id": "https://ocmono.com/blog/pharmacy-inventory-management-for-clinics" },
+    "articleSection": "Resources",
+    "keywords": "pharmacy inventory, clinic stock management, dispensary"
+  },
+  "content": "<h2>Why inventory still breaks on busy clinic days</h2><p>When pharmacy stock lives in spreadsheets separate from prescriptions and billing, teams discover gaps only when a patient is waiting at the counter. That is the wrong moment to learn a SKU is expired or miscounted.</p><figure class=\"blog-detail__figure\"><img src=\"https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=960&q=80\" alt=\"Organized pharmacy shelves with medicine stock\" loading=\"lazy\" /><figcaption>Connected inventory shows what is on the shelf, what was dispensed, and what needs reordering.</figcaption></figure><h2>Core workflows to digitize first</h2><ul><li><strong>Receive stock:</strong> batch number, expiry, supplier, and cost price</li><li><strong>Dispense against prescriptions:</strong> auto-deduct quantities from the correct batch</li><li><strong>Expiry alerts:</strong> 30/60/90-day warnings before write-offs</li><li><strong>Reorder thresholds:</strong> minimum levels per fast-moving SKU</li></ul><h3>Daily controls that prevent surprises</h3><ol><li>Reconcile dispensed items with invoices at shift end</li><li>Review near-expiry list every Monday</li><li>Tag high-value items for monthly physical counts</li><li>Track returns and adjustments with reasons</li></ol><h2>Link pharmacy to clinical and financial data</h2><p>When inventory connects to EMR and billing, you can see margin by medicine category, identify prescribing patterns, and reduce manual reconciliation between the dispensary and accounts team.</p><p>ClinicPro pharmacy and inventory modules are designed for in-clinic dispensaries that need speed at the counter and accuracy in reports.</p>"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Psychiatrists & Psychologists",
+  "slug": "psychiatrists-psychologists",
+  "description": "Comprehensive mental health practice management.",
+  "image": "/assets/img/speciality/Psychiatry.png",
+  "mega_menu_column": 1,
+  "sort_order": 3,
+  "show_on_homepage": true,
+  "animation_delay": "1.1s",
+  "status": "published",
+  "meta_title": "ClinicPro for Psychiatrists & Psychologists",
+  "meta_description": "Mental health clinic software for psychiatrists and psychologists."
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Telehealth Workflows That Fit Real Clinic Days",
+  "slug": "telehealth-workflows-for-busy-clinics",
+  "excerpt": "Virtual visits should feel like an extension of in-person care—not a separate product. Here is how to design telehealth scheduling, documentation, and billing in one flow.",
+  "cover_image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1200&q=80",
+  "og_image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1200&q=80",
+  "author": "Dr. Priya Sharma",
+  "category": "Product Updates",
+  "status": "published",
+  "published_at": "2026-06-05T11:00:00",
+  "meta_title": "Telehealth Workflows for Clinics | Virtual Visit Guide",
+  "meta_description": "Design telehealth workflows that fit busy clinics: scheduling, consent, video visits, clinical notes, and billing in one connected process with ClinicPro.",
+  "meta_keywords": "telehealth clinic workflow, virtual consultations, online doctor visits, clinic video appointments, telemedicine software India",
+  "canonical_url": "/blog/telehealth-workflows-for-busy-clinics",
+  "schema_json": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Telehealth Workflows That Fit Real Clinic Days",
+    "description": "Virtual visits should feel like an extension of in-person care—not a separate product. Here is how to design telehealth scheduling, documentation, and billing in one flow.",
+    "image": [
+      "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1200&q=80"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "Dr. Priya Sharma"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ClinicPro by ocmono",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://ocmono.com/assets/img/logo/logo-black.png"
+      }
+    },
+    "datePublished": "2026-06-05T11:00:00+00:00",
+    "dateModified": "2026-06-05T11:00:00+00:00",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://ocmono.com/blog/telehealth-workflows-for-busy-clinics"
+    },
+    "articleSection": "Product Updates",
+    "keywords": "telehealth, virtual visits, clinic workflow"
+  },
+  "content": "<h2>Telehealth works when it is invisible to staff</h2><p>The best virtual visit programs do not ask teams to learn a second system. Booking, consent, video link delivery, clinical notes, and payment should behave like any other appointment type—with a few smart defaults.</p><figure class=\"blog-detail__figure\"><img src=\"https://images.unsplash.com/photo-1584433144859-1fc3ab64a957?w=960&q=80\" alt=\"Doctor conducting a telehealth video consultation\" loading=\"lazy\" /><figcaption>Patients expect the same clarity online that they get at your front desk in person.</figcaption></figure><h2>Design the visit type once</h2><ul><li>Default duration and buffer time for virtual slots</li><li>Automated instructions (camera, quiet space, reports to keep ready)</li><li>Consent capture before the link is sent</li><li>Visit status: waiting, in session, completed, no-show</li></ul><h3>During the consultation</h3><p>Keep the patient chart open beside the video window. Document in the same EMR template you use for in-person follow-ups so continuity is preserved for the next visit—virtual or physical.</p><h2>Billing without reconciliation headaches</h2><p>Generate invoices immediately after session completion. Tag telehealth revenue separately in reports so you can compare uptake, cancellation patterns, and doctor productivity.</p><h2>When to offer hybrid follow-ups</h2><p>Many clinics use telehealth for report review, post-procedure checks, and chronic care touchpoints—freeing in-person capacity for exams that truly require them.</p><p>ClinicPro telehealth integrates with scheduling and patient records so your team runs virtual and in-clinic days on one calendar.</p>"
+}

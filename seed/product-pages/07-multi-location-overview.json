@@ -1,0 +1,13 @@
+{
+  "category": "multi-clinic",
+  "title": "Multi-Location Clinics",
+  "slug": "multi-location-overview",
+  "description": "Run multiple clinic locations from one connected platform.",
+  "content": "<p>ClinicPro Multi Clinic helps organizations operate several locations with shared standards and local flexibility. Keep patient records, schedules, and reporting connected while each site runs day-to-day care smoothly.</p><ul><li>One login across locations</li><li>Location-aware scheduling and staff</li><li>Central oversight with local control</li></ul>",
+  "icon": null,
+  "link": "/features/multi-location-clinics",
+  "sort_order": 0,
+  "status": "published",
+  "meta_title": "Multi-Location Clinics with ClinicPro",
+  "meta_description": "Operate multiple clinic locations from one connected ClinicPro platform."
+}

@@ -1,0 +1,154 @@
+{
+  "hero": {
+    "brand": "OCMONO",
+    "titleGradient": "Fill the pipeline.",
+    "titleSolid": "Run the business.",
+    "proof": "ClinicPro & MenuBip live · Based in Mumbai · Work across India",
+    "text": "Performance marketing that books demand — and SaaS products clinics, restaurants, and growing teams run every day. One team for growth and operations.",
+    "ctaLabel": "Book a strategy call",
+    "ctaHref": "/contact",
+    "ctaSecondaryLabel": "Explore products",
+    "ctaSecondaryHref": "/products",
+    "dashboardImage": "/assets/img/dashboard.png",
+    "avatars": [
+      "/assets/img/avata/avata-1.png",
+      "/assets/img/avata/avata-2.png",
+      "/assets/img/avata/avata-3.png"
+    ]
+  },
+  "clients": {
+    "label": "Together we've built remarkable work",
+    "rowA": [1, 2, 3, 4, 5, 6],
+    "rowB": [1, 2, 3, 4, 5, 6, 7, 8, 9]
+  },
+  "process": {
+    "eyebrow": "How we work",
+    "title": "A clear path from first call to compounding growth",
+    "lead": "Whether you need demand gen, a product rollout, or both — we diagnose, ship, measure, then double down on what works.",
+    "ctaLabel": "Book a strategy call",
+    "ctaHref": "/contact",
+    "steps": [
+      {
+        "id": "discover",
+        "side": "left",
+        "prefix": "",
+        "accent": "Discover",
+        "suffix": "",
+        "tone": "purple",
+        "icon": "fa-lightbulb",
+        "text": "Align on goals, audience, offer, and channel mix — so every rupee of spend and every product choice ties back to revenue."
+      },
+      {
+        "id": "launch",
+        "side": "right",
+        "prefix": "",
+        "accent": "Launch",
+        "suffix": "",
+        "tone": "blue",
+        "icon": "fa-rocket-launch",
+        "text": "Campaigns, funnels, and product setups go live with tracking you can trust — no black-box reporting."
+      },
+      {
+        "id": "optimize",
+        "side": "left",
+        "prefix": "",
+        "accent": "Optimize",
+        "suffix": "",
+        "tone": "orange",
+        "icon": "fa-chart-line",
+        "text": "Creative, bids, landing pages, and onboarding iterate weekly against real conversion data — not vanity metrics."
+      },
+      {
+        "id": "scale",
+        "side": "right",
+        "prefix": "",
+        "accent": "Scale",
+        "suffix": "",
+        "tone": "green",
+        "icon": "fa-rocket",
+        "text": "Put budget and focus behind winners across ads, SEO, and the SaaS stack your customers actually use."
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ",
+    "lead": "Straight answers on how OCMONO works — agency services, SaaS products, and what happens after you book a call.",
+    "items": [
+      {
+        "question": "What does OCMONO do?",
+        "answer": "Two equal pillars: performance marketing (paid media, SEO & local, conversion creative, funnels) and SaaS products like ClinicPro and MenuBip that operators run daily."
+      },
+      {
+        "question": "Can I buy your software without agency work?",
+        "answer": "Yes. Live products have their own sites and pricing. Agency services are optional — use one, the other, or both."
+      },
+      {
+        "question": "Which products are live today?",
+        "answer": "ClinicPro (clinicpro.cc) and MenuBip (menubip.com). HotelPro, HRMS, CRM, and LeadStack are on the waitlist."
+      },
+      {
+        "question": "Do you only work with healthcare and restaurants?",
+        "answer": "Those are strong verticals via our products, but performance marketing supports any brand that needs measurable demand — leads, bookings, and revenue."
+      },
+      {
+        "question": "What happens on a strategy call?",
+        "answer": "We map your goals, current channels, and constraints in about 30 minutes — then recommend the leanest path: agency work, a product, or a combined plan. No pressure pitch."
+      },
+      {
+        "question": "How fast can we get started?",
+        "answer": "Product trials can start quickly via each product site. Agency engagements usually kick off within a week of aligning scope — with weekly optimization once live."
+      }
+    ]
+  },
+  "proof": {
+    "badge": "Why brands choose OCMONO",
+    "title": "Proof you can verify — not promises on a slide.",
+    "lead": "We ship software operators use daily, and we run the growth systems that fill the pipeline. Same team. Clear accountability.",
+    "items": [
+      {
+        "id": "saas",
+        "icon": "fa-cubes",
+        "title": "We ship our own SaaS",
+        "text": "ClinicPro and MenuBip are live products — not demos. You can open them, price them, and start today.",
+        "href": "/products",
+        "linkLabel": "See live products"
+      },
+      {
+        "id": "growth",
+        "icon": "fa-chart-line",
+        "title": "Paid, organic & creative — one roof",
+        "text": "Media, SEO, and conversion creative under one strategy so channels reinforce each other instead of competing.",
+        "href": "/services",
+        "linkLabel": "Explore services"
+      },
+      {
+        "id": "optimize",
+        "icon": "fa-sync",
+        "title": "Weekly optimization against real data",
+        "text": "We iterate creative, bids, and funnels from conversion outcomes — not impressions or vanity dashboards.",
+        "href": "/contact",
+        "linkLabel": "Book a call"
+      },
+      {
+        "id": "delivery",
+        "icon": "fa-map-marker-alt",
+        "title": "Mumbai team, remote-ready delivery",
+        "text": "Based in Mumbai, working with brands across India. Clear owners, async updates, and structured weekly rhythm.",
+        "href": "/about",
+        "linkLabel": "About OCMONO"
+      }
+    ]
+  },
+  "testimonials": {
+    "badge": "Trusted by growing brands",
+    "title": "Words of praise from others about our presence."
+  },
+  "finalCta": {
+    "title": "Ready to grow —\nor run leaner?",
+    "text": "Book a strategy call with our growth team, or explore SaaS built for clinics, F&B, and the teams that follow.",
+    "ctaLabel": "Book a strategy call",
+    "ctaHref": "/contact",
+    "ctaSecondaryLabel": "Explore products",
+    "ctaSecondaryHref": "/products"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "category": "saas-product",
+  "title": "CRM",
+  "slug": "crm",
+  "description": "Pipeline, contacts, follow-ups, and team accountability — a CRM shaped for sales and success teams that need clarity, not clutter.",
+  "content": "<p>Customer relationships that convert</p>",
+  "image": "/assets/img/project/project-inner-1.jpg",
+  "link": null,
+  "sort_order": 5,
+  "status": "published",
+  "meta_title": "CRM — Coming Soon | OCMONO",
+  "meta_description": "CRM by OCMONO: Customer relationships that convert. Join the waitlist for early access.",
+  "capabilities_json": [
+    {
+      "icon": "target",
+      "title": "Pipeline stages",
+      "description": "Visual deals with clear next steps."
+    },
+    {
+      "icon": "users",
+      "title": "Contacts & companies",
+      "description": "Relationship history in one timeline."
+    },
+    {
+      "icon": "bell",
+      "title": "Follow-up reminders",
+      "description": "Never lose a warm lead to silence."
+    },
+    {
+      "icon": "bar-chart",
+      "title": "Forecast views",
+      "description": "See what is closing this month."
+    },
+    {
+      "icon": "workflow",
+      "title": "Team assignment",
+      "description": "Owners, SLAs, and handoffs between roles."
+    },
+    {
+      "icon": "plug",
+      "title": "Lead intake",
+      "description": "Designed to connect with forms and lead channels."
+    }
+  ],
+  "saas_meta_json": {
+    "product_status": "coming_soon",
+    "tagline": "Customer relationships that convert",
+    "industry": "Sales & CRM",
+    "accent": "#7c3aed",
+    "audience": "Sales teams, agencies, and service businesses",
+    "problem": "Deals live in inboxes and WhatsApp threads. Without a shared pipeline, forecasts and follow-ups fall apart.",
+    "cta_primary": {
+      "label": "Join waitlist",
+      "href": "#waitlist"
+    },
+    "cta_secondary": {
+      "label": "Talk to us",
+      "href": "/contact?type=product-waitlist"
+    },
+    "deep_features": [
+      {
+        "title": "A CRM your team will actually use",
+        "text": "Focused on pipeline hygiene and follow-ups — not bloated enterprise modules you never open."
+      }
+    ],
+    "pricing": null,
+    "faqs": [
+      {
+        "q": "Will it integrate with LeadStack?",
+        "a": "Yes — CRM and LeadStack are designed to work together for intake-to-close workflows."
+      }
+    ]
+  }
+}

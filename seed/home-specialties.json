@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "img": "/assets/img/speciality/general-physician.png",
+    "title": "General Physicians",
+    "description": "Comprehensive clinic management solution for general practitioners and family medicine specialists.",
+    "delay": ".3s"
+  },
+  {
+    "id": 2,
+    "img": "/assets/img/speciality/pediatrician.jpeg",
+    "title": "Pediatricians",
+    "description": "Specialized practice management for pediatric care with immunization tracking and growth charts.",
+    "delay": ".4s"
+  },
+  {
+    "id": 3,
+    "img": "/assets/img/speciality/dermatologist.webp",
+    "title": "Dermatologists",
+    "description": "Advanced practice management for dermatologists with skin condition documentation and treatment tracking.",
+    "delay": ".5s"
+  },
+  {
+    "id": 4,
+    "img": "/assets/img/speciality/dentist.png",
+    "title": "Dentists",
+    "description": "Specialized dental practice management with treatment planning and procedure tracking.",
+    "delay": ".6s"
+  },
+  {
+    "id": 5,
+    "img": "/assets/img/speciality/orthopediatrician.png",
+    "title": "Orthopedicians",
+    "description": "Advanced practice management for orthopedic specialists with surgical scheduling and injury documentation.",
+    "delay": ".7s"
+  },
+  {
+    "id": 6,
+    "img": "/assets/img/speciality/ENT  Specialist.png",
+    "title": "ENT Specialists",
+    "description": "Specialized clinic management for Ear, Nose, and Throat specialists.",
+    "delay": ".8s"
+  },
+  {
+    "id": 7,
+    "img": "/assets/img/speciality/Physiotherapy.png",
+    "title": "Physiotherapists",
+    "description": "Comprehensive therapy practice management for physiotherapists.",
+    "delay": ".9s"
+  },
+  {
+    "id": 8,
+    "img": "/assets/img/speciality/ophthalmologist.webp",
+    "title": "Ophthalmologists",
+    "description": "Specialized practice management for eye care specialists.",
+    "delay": "1s"
+  },
+  {
+    "id": 9,
+    "img": "/assets/img/speciality/Psychiatry.png",
+    "title": "Psychiatrists & Psychologists",
+    "description": "Comprehensive mental health practice management.",
+    "delay": "1.1s"
+  }
+]

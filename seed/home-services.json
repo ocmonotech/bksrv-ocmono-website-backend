@@ -1,0 +1,54 @@
+{
+  "section": {
+    "badge": "Clinic Managements",
+    "title": "Comprehensive Clinic",
+    "titleHighlight": "Management Solutions",
+    "subTitle": "All-in-one platform trusted by over 15,000 healthcare practices worldwide",
+    "bgImg": "/assets/img/service/sv-bg.jpg",
+    "title2": "Unified Clinic Management Platform",
+    "description": "Streamline operations, boost revenue, and enhance patient care with one powerful solution",
+    "btnText": "Book A Demo"
+  },
+  "items": [
+    {
+      "id": 1,
+      "img": "/assets/img/service/sv-icon-1.png",
+      "title": "Appointment Scheduling",
+      "description": "Intelligent calendar with automated reminders and booking",
+      "delay": ".4s",
+      "featureSlug": "appointment-scheduling"
+    },
+    {
+      "id": 2,
+      "img": "/assets/img/service/sv-icon-2.png",
+      "title": "Client Management",
+      "description": "Complete patient profiles with history and document storage",
+      "delay": ".6s",
+      "featureSlug": "patient-management"
+    },
+    {
+      "id": 3,
+      "img": "/assets/img/service/sv-icon-3.png",
+      "title": "Clinical Notes & EMR",
+      "description": "HIPAA-compliant records with secure patient data management",
+      "delay": ".7s",
+      "featureSlug": "clinic-notes"
+    },
+    {
+      "id": 4,
+      "img": "/assets/img/service/sv-icon-4.png",
+      "title": "Billing & Payments",
+      "description": "GST-ready invoices with real-time revenue analytics",
+      "delay": ".8s",
+      "featureSlug": "payments-invoices"
+    },
+    {
+      "id": 5,
+      "img": "/assets/img/service/sv-icon-5.png",
+      "title": "Telehealth & Reports",
+      "description": "Virtual consultations with comprehensive analytics dashboards",
+      "delay": ".9s",
+      "featureSlug": "telehealth"
+    }
+  ]
+}

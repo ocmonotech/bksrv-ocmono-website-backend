@@ -1,0 +1,13 @@
+{
+  "title": "Google Calendar",
+  "slug": "google-calendar",
+  "description": "Sync clinic appointments with Google Calendar for doctors and front-desk teams.",
+  "content": "<p>Two-way calendar sync keeps provider schedules aligned across ClinicPro and Google Calendar.</p>",
+  "logo": "/assets/img/integration/integration-3.png",
+  "category": "Scheduling",
+  "external_url": "https://calendar.google.com",
+  "card_color": 3,
+  "sort_order": 3,
+  "show_in_carousel": true,
+  "status": "published"
+}

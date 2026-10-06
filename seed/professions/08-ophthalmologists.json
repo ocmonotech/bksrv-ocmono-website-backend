@@ -1,0 +1,13 @@
+{
+  "title": "Ophthalmologists",
+  "slug": "ophthalmologists",
+  "description": "Specialized practice management for eye care specialists.",
+  "image": "/assets/img/speciality/ophthalmologist.webp",
+  "mega_menu_column": 1,
+  "sort_order": 2,
+  "show_on_homepage": true,
+  "animation_delay": "1s",
+  "status": "published",
+  "meta_title": "ClinicPro for Ophthalmologists",
+  "meta_description": "Eye care clinic software for ophthalmologists and vision specialists."
+}

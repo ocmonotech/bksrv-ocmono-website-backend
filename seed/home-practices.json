@@ -1,0 +1,38 @@
+[
+  {
+    "id": "team-collaboration",
+    "label": "Team Collaboration",
+    "title": "Centralized Staff Communication for Smoother Operations",
+    "href": "/features",
+    "delay": ".6s",
+    "animation": "tpfadeRight",
+    "iconClass": "tp-service-sm-icon"
+  },
+  {
+    "id": "appointment-booking",
+    "label": "Appointment Scheduling",
+    "title": "Smart Appointment Booking & Doctor Availability Control",
+    "href": "/features/appointment-scheduling",
+    "delay": ".5s",
+    "animation": "tpfadeUp",
+    "iconClass": "tp-service-sm-icon tp-service-sm-icon-1"
+  },
+  {
+    "id": "billing-payments",
+    "label": "Billing & Payments",
+    "title": "Faster Billing with Integrated Payment Tracking",
+    "href": "/features/payments-invoices",
+    "delay": ".5s",
+    "animation": "tpfadeUp",
+    "iconClass": "tp-service-sm-icon tp-service-sm-icon-2"
+  },
+  {
+    "id": "data-security",
+    "label": "Data Security",
+    "title": "Enterprise-Grade Security for Patient Records",
+    "href": "/security",
+    "delay": ".5s",
+    "animation": "tpfadeUp",
+    "iconClass": "tp-service-sm-icon tp-service-sm-icon-3"
+  }
+]

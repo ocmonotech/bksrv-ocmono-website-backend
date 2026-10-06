@@ -1,0 +1,13 @@
+{
+  "title": "Tally",
+  "slug": "tally",
+  "description": "Export clinic billing and GST data to Tally for accounting and compliance workflows.",
+  "content": "<p>Push invoices, receipts, and tax summaries from ClinicPro into Tally for streamlined clinic accounting.</p>",
+  "logo": "/assets/img/integration/integration-5.png",
+  "category": "Billing",
+  "external_url": "https://tallysolutions.com",
+  "card_color": 1,
+  "sort_order": 5,
+  "show_in_carousel": true,
+  "status": "published"
+}

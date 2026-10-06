@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "img": "/assets/img/price/price-icon-1.png",
+    "title": "Part-time",
+    "description": "Part-time availability of a designer/developer",
+    "cls": "",
+    "price": "₹2,450/Monthly",
+    "features": [
+      "Fast delivery and response",
+      "Pause or cancel anytime",
+      "Dedicated project manager",
+      "1 active request at a time"
+    ]
+  },
+  {
+    "id": 2,
+    "img": "/assets/img/price/price-icon-2.png",
+    "title": "Full-time",
+    "description": "Best fit for growing brands with steady scope",
+    "cls": "active",
+    "price": "₹3,950/Monthly",
+    "features": [
+      "Everything in Part-time",
+      "SEO and marketing support",
+      "E-commerce execution support",
+      "Priority delivery pipeline"
+    ]
+  },
+  {
+    "id": 3,
+    "img": "/assets/img/price/price-icon-3.png",
+    "title": "Your own team",
+    "description": "A dedicated pod for design, dev, and growth",
+    "cls": "",
+    "price": "₹5,450/Monthly",
+    "features": [
+      "Everything in Full-time",
+      "2 active requests at a time",
+      "Dedicated account manager",
+      "Strategic growth reviews"
+    ]
+  },
+  {
+    "id": 4,
+    "img": "/assets/img/price/price-icon-1.png",
+    "title": "Part-time",
+    "description": "Part-time availability of a designer/developer",
+    "cls": "",
+    "price": "₹24,500/Yearly",
+    "features": [
+      "Fast delivery and response",
+      "Pause or cancel anytime",
+      "Dedicated project manager",
+      "1 active request at a time"
+    ]
+  },
+  {
+    "id": 5,
+    "img": "/assets/img/price/price-icon-2.png",
+    "title": "Full-time",
+    "description": "Best fit for growing brands with steady scope",
+    "cls": "active",
+    "price": "₹39,500/Yearly",
+    "features": [
+      "Everything in Part-time",
+      "SEO and marketing support",
+      "E-commerce execution support",
+      "Priority delivery pipeline"
+    ]
+  },
+  {
+    "id": 6,
+    "img": "/assets/img/price/price-icon-3.png",
+    "title": "Your own team",
+    "description": "A dedicated pod for design, dev, and growth",
+    "cls": "",
+    "price": "₹54,500/Yearly",
+    "features": [
+      "Everything in Full-time",
+      "2 active requests at a time",
+      "Dedicated account manager",
+      "Strategic growth reviews"
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "title": "Physiotherapists",
+  "slug": "physiotherapists",
+  "description": "Comprehensive therapy practice management for physiotherapists.",
+  "image": "/assets/img/speciality/Physiotherapy.png",
+  "mega_menu_column": 1,
+  "sort_order": 1,
+  "show_on_homepage": true,
+  "animation_delay": ".9s",
+  "status": "published",
+  "meta_title": "ClinicPro for Physiotherapists",
+  "meta_description": "Physiotherapy clinic software for session tracking and patient rehabilitation plans."
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Pediatricians",
+  "slug": "pediatricians",
+  "description": "Specialized practice management for pediatric care with immunization tracking and growth charts.",
+  "image": "/assets/img/speciality/pediatrician.jpeg",
+  "mega_menu_column": 0,
+  "sort_order": 2,
+  "show_on_homepage": true,
+  "animation_delay": ".4s",
+  "status": "published",
+  "meta_title": "ClinicPro for Pediatricians",
+  "meta_description": "Pediatric clinic software with immunization tracking, growth charts, and appointment management."
+}

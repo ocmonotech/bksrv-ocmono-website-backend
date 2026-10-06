@@ -1,0 +1,13 @@
+{
+  "title": "Orthopedicians",
+  "slug": "orthopedicians",
+  "description": "Advanced practice management for orthopedic specialists with surgical scheduling and injury documentation.",
+  "image": "/assets/img/speciality/orthopediatrician.png",
+  "mega_menu_column": 0,
+  "sort_order": 5,
+  "show_on_homepage": true,
+  "animation_delay": ".7s",
+  "status": "published",
+  "meta_title": "ClinicPro for Orthopedicians",
+  "meta_description": "Orthopedic clinic software with surgical scheduling and injury documentation."
+}

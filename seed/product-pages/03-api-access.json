@@ -1,0 +1,13 @@
+{
+  "category": "apps-tools",
+  "title": "API Access",
+  "slug": "api-access",
+  "description": "Integrate with your systems",
+  "content": "<p>Connect ClinicPro to your existing tools with secure API access. Sync patient data, automate workflows, and build custom integrations that fit how your clinic already works.</p><ul><li>REST API for core clinic data</li><li>Secure authentication and scoped access</li><li>Ideal for labs, billing, and custom portals</li></ul>",
+  "icon": "api",
+  "link": "/integrations",
+  "sort_order": 2,
+  "status": "published",
+  "meta_title": "ClinicPro API Access",
+  "meta_description": "Integrate ClinicPro with your systems using secure API access."
+}

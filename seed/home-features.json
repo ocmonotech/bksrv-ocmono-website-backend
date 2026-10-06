@@ -1,0 +1,133 @@
+{
+  "defaultVideo": "/assets/videos/Stock/tutorial.mp4",
+  "items": [
+    {
+      "id": "appointment",
+      "tabTitle": "Appointment Scheduling",
+      "tabSubtitle": "Appoitment booking",
+      "tag": "SMART APPOINTMENT FLOW",
+      "title": "Reduce no-shows and manage slots effortlessly",
+      "description": "Whether walk-ins or pre-booked slots, ClinicPro ensures smooth scheduling with automated reminders and an intuitive calendar.",
+      "checklist": [
+        "Real-time slot availability",
+        "Auto SMS reminders",
+        "Walk-in management",
+        "Doctor-wise schedules",
+        "Rescheduling via one tap"
+      ],
+      "image": "/assets/img/service/sv-dashbord.png"
+    },
+    {
+      "id": "forms",
+      "tabTitle": "Online Forms",
+      "tabSubtitle": "Digital intake",
+      "tag": "DIGITAL PATIENT FORMS",
+      "title": "Collect patient information before they arrive",
+      "description": "Reduce paperwork with digital intake, consent, and feedback forms that sync directly to the EMR.",
+      "checklist": [
+        "Intake & history forms",
+        "Digital consent forms",
+        "Feedback & follow-up forms",
+        "Auto-sync to EMR",
+        "Mobile-friendly forms"
+      ],
+      "image": "/assets/img/about/about-4-1.png"
+    },
+    {
+      "id": "client",
+      "tabTitle": "Client Management",
+      "tabSubtitle": "360° CRM system",
+      "tag": "PATIENT PROFILES & HISTORY",
+      "title": "Organize every patient's information in one secure place",
+      "description": "Manage all your patient details, history, and documents in a unified dashboard designed to reduce admin work.",
+      "checklist": [
+        "Complete profiles with demographics",
+        "Smart search and filters",
+        "Family-linked accounts",
+        "Document storage",
+        "Instant access across devices"
+      ],
+      "image": "/assets/img/about/about-4-2.png"
+    },
+    {
+      "id": "calendar",
+      "tabTitle": "Calendar",
+      "tabSubtitle": "Smart scheduling",
+      "tag": "Smart Calendar & Appointment System",
+      "title": "Manage all appointments visually with real-time updates and color-coded statuses.",
+      "description": "",
+      "checklist": [
+        "Day, Week & Month Views",
+        "Book directly from calendar slots",
+        "Status update in real-time",
+        "Doctor-wise and patient-wise filters",
+        "Automated reminders via SMS and email"
+      ],
+      "image": "/assets/img/about/about-5.png"
+    },
+    {
+      "id": "sms",
+      "tabTitle": "SMS Communication",
+      "tabSubtitle": "Automated alerts",
+      "tag": "SMS Communication & Alerts",
+      "title": "Automate reminders, confirmations, and follow-ups instantly via SMS.",
+      "description": "",
+      "checklist": [
+        "Automated templates",
+        "Two-way replies support",
+        "Bulk campaigns per clinic",
+        "Delivery status tracking",
+        "Multi-language support"
+      ],
+      "image": "/assets/img/about/about-4-3.png"
+    },
+    {
+      "id": "email",
+      "tabTitle": "Email Communication",
+      "tabSubtitle": "Campaign management",
+      "tag": "PATIENT ENGAGEMENT & RECALL",
+      "title": "Stay connected with patients through targeted emails",
+      "description": "Send personalised campaigns for recalls, follow-ups, and health tips—all from one dashboard.",
+      "checklist": [
+        "Pre-built templates",
+        "Automated campaigns",
+        "Seasonal health alerts",
+        "Performance tracking",
+        "Clinic branding options"
+      ],
+      "image": "/assets/img/service/sv-details-1.jpg"
+    },
+    {
+      "id": "notes",
+      "tabTitle": "Clinical Notes",
+      "tabSubtitle": "Patient records",
+      "tag": "CONSULTATION RECORDING",
+      "title": "Document clinical findings in seconds",
+      "description": "Streamlined notes help you record consult details quickly without interrupting your workflow.",
+      "checklist": [
+        "Pre-built specialty templates",
+        "Auto-save protection",
+        "Vitals & findings tagging",
+        "Attach images & reports",
+        "Export or share notes"
+      ],
+      "image": "/assets/img/about/about-2.jpg"
+    },
+    {
+      "id": "payments",
+      "tabTitle": "Payments & Invoicing",
+      "tabSubtitle": "Billing automation",
+      "tag": "BILLING & FINANCE AUTOMATION",
+      "title": "Get paid faster with integrated billing tools",
+      "description": "Generate invoices, collect payments, and track revenue—all in one streamlined finance dashboard.",
+      "checklist": [
+        "UPI & card payments",
+        "GST-ready invoices",
+        "Track dues & settlements",
+        "Auto receipts",
+        "Revenue dashboards"
+      ],
+      "image": "/assets/img/about/about-3.jpg"
+    }
+  ]
+}

@@ -1,0 +1,2159 @@
+[
+  {
+    "id": "patient-management",
+    "title": "Patient Management",
+    "description": "Centralize patient records, demographics, and visit history in one secure, searchable workspace.",
+    "icon": "fal fa-users",
+    "iconBg": "#e0f7f4",
+    "iconColor": "#0d9488",
+    "overviewEyebrow": "OVERVIEW",
+    "overviewTitle": "Complete Patient Management System",
+    "overviewDescription": "Centralize patient records, demographics, and visit history in one secure, searchable workspace. ClinicPro brings clarity to daily workflows with secure documentation, faster handoffs, and real-time visibility across your practice.",
+    "overviewBenefits": [
+      "Structured and secure patient management workflows",
+      "Templates, plans, and observations in one place",
+      "Quick search and filter by patient, date, or provider"
+    ],
+    "highlightHeadline": "Create & Manage Patient Management Efficiently, Automatically.",
+    "highlightCta": "Learn More",
+    "highlightSecondaryTitle": "TEMPLATES",
+    "highlightSecondaryText": "Pre-built templates for quick documentation",
+    "highlightCards": [
+      {
+        "label": "Dashboard View",
+        "text": "Record findings, vitals, and observations with structured fields.",
+        "icon": "fal fa-clipboard-list",
+        "iconBg": "#eef4ff",
+        "iconColor": "#3b6ff6"
+      },
+      {
+        "label": "Treatment Plans",
+        "text": "Document instructions, follow-ups, and care plans in seconds.",
+        "icon": "fal fa-notes-medical",
+        "iconBg": "#fff7ed",
+        "iconColor": "#ea580c"
+      },
+      {
+        "label": "Search & Filter",
+        "text": "Find records by patient, date, provider, or diagnosis instantly.",
+        "icon": "fal fa-search",
+        "iconBg": "#ecfdf5",
+        "iconColor": "#059669"
+      }
+    ],
+    "showcases": [
+      {
+        "title": "Streamlined Patient Management Workflows",
+        "description": "Reduce manual steps and keep every patient management task connected to patient records, scheduling, and billing.",
+        "bullets": [
+          "Centralized dashboard for real-time visibility",
+          "Smart templates to speed up documentation",
+          "Quick search and filters across all records"
+        ],
+        "reverse": false
+      },
+      {
+        "title": "Collaborate Across Your Care Team",
+        "description": "Give practitioners, nurses, and admin staff shared access to patient management data with role-based permissions.",
+        "bullets": [
+          "Role-based access and audit trails",
+          "Shared notes, plans, and follow-up tasks",
+          "Integrated reminders and notifications"
+        ],
+        "reverse": true
+      }
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Why should I use ClinicPro for Patient Management?",
+        "answer": "Patient Management in ClinicPro connects directly with patient records, scheduling, and billing so your team works from one secure workspace instead of scattered tools."
+      },
+      {
+        "id": 2,
+        "question": "How does pricing work for multiple users?",
+        "answer": "ClinicPro plans scale by clinic size and role. Additional practitioners and modules can be added as your practice grows without changing your core workflow."
+      },
+      {
+        "id": 3,
+        "question": "How do I get started with ClinicPro?",
+        "answer": "Book a demo with our team for a guided walkthrough. We help migrate your data, configure templates, and onboard staff with live training."
+      },
+      {
+        "id": 4,
+        "question": "Is patient data secure?",
+        "answer": "Yes. ClinicPro uses encrypted records, role-based access, and HIPAA-ready infrastructure to protect every patient interaction."
+      }
+    ],
+    "relatedSlugs": [
+      "digital-emr",
+      "clinic-notes",
+      "prescription-management",
+      "vaccination-management",
+      "appointment-scheduling"
+    ],
+    "images": {
+      "hero": "",
+      "overview": "",
+      "showcaseDashboard": "",
+      "showcaseEditor": "",
+      "highlight": "",
+      "faq": ""
+    }
+  },
+  {
+    "id": "digital-emr",
+    "title": "Digital EMR",
+    "description": "Access structured electronic medical records with fast search, tags, and specialty-ready fields.",
+    "icon": "fal fa-file-medical",
+    "iconBg": "#eef4ff",
+    "iconColor": "#3b6ff6",
+    "overviewEyebrow": "OVERVIEW",
+    "overviewTitle": "Complete Digital EMR System",
+    "overviewDescription": "Access structured electronic medical records with fast search, tags, and specialty-ready fields. ClinicPro brings clarity to daily workflows with secure documentation, faster handoffs, and real-time visibility across your practice.",
+    "overviewBenefits": [
+      "Structured and secure digital emr workflows",
+      "Templates, plans, and observations in one place",
+      "Quick search and filter by patient, date, or provider"
+    ],
+    "highlightHeadline": "Create & Manage Digital EMR Efficiently, Automatically.",
+    "highlightCta": "Learn More",
+    "highlightSecondaryTitle": "TEMPLATES",
+    "highlightSecondaryText": "Pre-built templates for quick documentation",
+    "highlightCards": [
+      {
+        "label": "Dashboard View",
+        "text": "Record findings, vitals, and observations with structured fields.",
+        "icon": "fal fa-clipboard-list",
+        "iconBg": "#eef4ff",
+        "iconColor": "#3b6ff6"
+      },
+      {
+        "label": "Treatment Plans",
+        "text": "Document instructions, follow-ups, and care plans in seconds.",
+        "icon": "fal fa-notes-medical",
+        "iconBg": "#fff7ed",
+        "iconColor": "#ea580c"
+      },
+      {
+        "label": "Search & Filter",
+        "text": "Find records by patient, date, provider, or diagnosis instantly.",
+        "icon": "fal fa-search",
+        "iconBg": "#ecfdf5",
+        "iconColor": "#059669"
+      }
+    ],
+    "showcases": [
+      {
+        "title": "Streamlined Digital EMR Workflows",
+        "description": "Reduce manual steps and keep every digital emr task connected to patient records, scheduling, and billing.",
+        "bullets": [
+          "Centralized dashboard for real-time visibility",
+          "Smart templates to speed up documentation",
+          "Quick search and filters across all records"
+        ],
+        "reverse": false
+      },
+      {
+        "title": "Collaborate Across Your Care Team",
+        "description": "Give practitioners, nurses, and admin staff shared access to digital emr data with role-based permissions.",
+        "bullets": [
+          "Role-based access and audit trails",
+          "Shared notes, plans, and follow-up tasks",
+          "Integrated reminders and notifications"
+        ],
+        "reverse": true
+      }
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Why should I use ClinicPro for Digital EMR?",
+        "answer": "Digital EMR in ClinicPro connects directly with patient records, scheduling, and billing so your team works from one secure workspace instead of scattered tools."
+      },
+      {
+        "id": 2,
+        "question": "How does pricing work for multiple users?",
+        "answer": "ClinicPro plans scale by clinic size and role. Additional practitioners and modules can be added as your practice grows without changing your core workflow."
+      },
+      {
+        "id": 3,
+        "question": "How do I get started with ClinicPro?",
+        "answer": "Book a demo with our team for a guided walkthrough. We help migrate your data, configure templates, and onboard staff with live training."
+      },
+      {
+        "id": 4,
+        "question": "Is patient data secure?",
+        "answer": "Yes. ClinicPro uses encrypted records, role-based access, and HIPAA-ready infrastructure to protect every patient interaction."
+      }
+    ],
+    "relatedSlugs": [
+      "patient-management",
+      "clinic-notes",
+      "prescription-management",
+      "vaccination-management",
+      "appointment-scheduling"
+    ],
+    "images": {
+      "hero": "",
+      "overview": "",
+      "showcaseDashboard": "",
+      "showcaseEditor": "",
+      "highlight": "",
+      "faq": ""
+    }
+  },
+  {
+    "id": "clinic-notes",
+    "title": "Clinic Notes",
+    "description": "Capture consultations with templates, vitals, and attachments in seconds during every visit.",
+    "icon": "fal fa-notes-medical",
+    "iconBg": "#fce8f3",
+    "iconColor": "#db2777",
+    "overviewEyebrow": "OVERVIEW",
+    "overviewTitle": "Complete Clinic Notes System",
+    "overviewDescription": "Capture consultations with templates, vitals, and attachments in seconds during every visit. ClinicPro brings clarity to daily workflows with secure documentation, faster handoffs, and real-time visibility across your practice.",
+    "overviewBenefits": [
+      "Structured and secure clinic notes workflows",
+      "Templates, plans, and observations in one place",
+      "Quick search and filter by patient, date, or provider"
+    ],
+    "highlightHeadline": "Create & Manage Clinic Notes Efficiently, Automatically.",
+    "highlightCta": "Learn More",
+    "highlightSecondaryTitle": "TEMPLATES",
+    "highlightSecondaryText": "Pre-built templates for quick documentation",
+    "highlightCards": [
+      {
+        "label": "Dashboard View",
+        "text": "Record findings, vitals, and observations with structured fields.",
+        "icon": "fal fa-clipboard-list",
+        "iconBg": "#eef4ff",
+        "iconColor": "#3b6ff6"
+      },
+      {
+        "label": "Treatment Plans",
+        "text": "Document instructions, follow-ups, and care plans in seconds.",
+        "icon": "fal fa-notes-medical",
+        "iconBg": "#fff7ed",
+        "iconColor": "#ea580c"
+      },
+      {
+        "label": "Search & Filter",
+        "text": "Find records by patient, date, provider, or diagnosis instantly.",
+        "icon": "fal fa-search",
+        "iconBg": "#ecfdf5",
+        "iconColor": "#059669"
+      }
+    ],
+    "showcases": [
+      {
+        "title": "Streamlined Clinic Notes Workflows",
+        "description": "Reduce manual steps and keep every clinic notes task connected to patient records, scheduling, and billing.",
+        "bullets": [
+          "Centralized dashboard for real-time visibility",
+          "Smart templates to speed up documentation",
+          "Quick search and filters across all records"
+        ],
+        "reverse": false
+      },
+      {
+        "title": "Collaborate Across Your Care Team",
+        "description": "Give practitioners, nurses, and admin staff shared access to clinic notes data with role-based permissions.",
+        "bullets": [
+          "Role-based access and audit trails",
+          "Shared notes, plans, and follow-up tasks",
+          "Integrated reminders and notifications"
+        ],
+        "reverse": true
+      }
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Why should I use ClinicPro for Clinic Notes?",
+        "answer": "Clinic Notes in ClinicPro connects directly with patient records, scheduling, and billing so your team works from one secure workspace instead of scattered tools."
+      },
+      {
+        "id": 2,
+        "question": "How does pricing work for multiple users?",
+        "answer": "ClinicPro plans scale by clinic size and role. Additional practitioners and modules can be added as your practice grows without changing your core workflow."
+      },
+      {
+        "id": 3,
+        "question": "How do I get started with ClinicPro?",
+        "answer": "Book a demo with our team for a guided walkthrough. We help migrate your data, configure templates, and onboard staff with live training."
+      },
+      {
+        "id": 4,
+        "question": "Is patient data secure?",
+        "answer": "Yes. ClinicPro uses encrypted records, role-based access, and HIPAA-ready infrastructure to protect every patient interaction."
+      }
+    ],
+    "relatedSlugs": [
+      "patient-management",
+      "digital-emr",
+      "prescription-management",
+      "vaccination-management",
+      "appointment-scheduling"
+    ],
+    "images": {
+      "hero": "",
+      "overview": "",
+      "showcaseDashboard": "",
+      "showcaseEditor": "",
+      "highlight": "",
+      "faq": ""
+    }
+  },
+  {
+    "id": "prescription-management",
+    "title": "Prescription Management",
+    "description": "Generate digital prescriptions with drug libraries, dosages, and print-ready formats.",
+    "icon": "fal fa-prescription",
+    "iconBg": "#ecfdf5",
+    "iconColor": "#059669",
+    "overviewEyebrow": "OVERVIEW",
+    "overviewTitle": "Complete Prescription Management System",
+    "overviewDescription": "Generate digital prescriptions with drug libraries, dosages, and print-ready formats. ClinicPro brings clarity to daily workflows with secure documentation, faster handoffs, and real-time visibility across your practice.",
+    "overviewBenefits": [
+      "Structured and secure prescription management workflows",
+      "Templates, plans, and observations in one place",
+      "Quick search and filter by patient, date, or provider"
+    ],
+    "highlightHeadline": "Create & Manage Prescription Management Efficiently, Automatically.",
+    "highlightCta": "Learn More",
+    "highlightSecondaryTitle": "TEMPLATES",
+    "highlightSecondaryText": "Pre-built templates for quick documentation",
+    "highlightCards": [
+      {
+        "label": "Dashboard View",
+        "text": "Record findings, vitals, and observations with structured fields.",
+        "icon": "fal fa-clipboard-list",
+        "iconBg": "#eef4ff",
+        "iconColor": "#3b6ff6"
+      },
+      {
+        "label": "Treatment Plans",
+        "text": "Document instructions, follow-ups, and care plans in seconds.",
+        "icon": "fal fa-notes-medical",
+        "iconBg": "#fff7ed",
+        "iconColor": "#ea580c"
+      },
+      {
+        "label": "Search & Filter",
+        "text": "Find records by patient, date, provider, or diagnosis instantly.",
+        "icon": "fal fa-search",
+        "iconBg": "#ecfdf5",
+        "iconColor": "#059669"
+      }
+    ],
+    "showcases": [
+      {
+        "title": "Streamlined Prescription Management Workflows",
+        "description": "Reduce manual steps and keep every prescription management task connected to patient records, scheduling, and billing.",
+        "bullets": [
+          "Centralized dashboard for real-time visibility",
+          "Smart templates to speed up documentation",
+          "Quick search and filters across all records"
+        ],
+        "reverse": false
+      },
+      {
+        "title": "Collaborate Across Your Care Team",
+        "description": "Give practitioners, nurses, and admin staff shared access to prescription management data with role-based permissions.",
+        "bullets": [
+          "Role-based access and audit trails",
+          "Shared notes, plans, and follow-up tasks",
+          "Integrated reminders and notifications"
+        ],
+        "reverse": true
+      }
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Why should I use ClinicPro for Prescription Management?",
+        "answer": "Prescription Management in ClinicPro connects directly with patient records, scheduling, and billing so your team works from one secure workspace instead of scattered tools."
+      },
+      {
+        "id": 2,
+        "question": "How does pricing work for multiple users?",
+        "answer": "ClinicPro plans scale by clinic size and role. Additional practitioners and modules can be added as your practice grows without changing your core workflow."
+      },
+      {
+        "id": 3,
+        "question": "How do I get started with ClinicPro?",
+        "answer": "Book a demo with our team for a guided walkthrough. We help migrate your data, configure templates, and onboard staff with live training."
+      },
+      {
+        "id": 4,
+        "question": "Is patient data secure?",
+        "answer": "Yes. ClinicPro uses encrypted records, role-based access, and HIPAA-ready infrastructure to protect every patient interaction."
+      }
+    ],
+    "relatedSlugs": [
+      "patient-management",
+      "digital-emr",
+      "clinic-notes",
+      "vaccination-management",
+      "appointment-scheduling"
+    ],
+    "images": {
+      "hero": "",
+      "overview": "",
+      "showcaseDashboard": "",
+      "showcaseEditor": "",
+      "highlight": "",
+      "faq": ""
+    }
+  },
+  {
+    "id": "vaccination-management",
+    "title": "Vaccination Management",
+    "description": "Track immunization schedules, doses, and reminders across every stage of patient care.",
+    "icon": "fal fa-syringe",
+    "iconBg": "#fff7ed",
+    "iconColor": "#ea580c",
+    "overviewEyebrow": "OVERVIEW",
+    "overviewTitle": "Complete Vaccination Management System",
+    "overviewDescription": "Track immunization schedules, doses, and reminders across every stage of patient care. ClinicPro brings clarity to daily workflows with secure documentation, faster handoffs, and real-time visibility across your practice.",
+    "overviewBenefits": [
+      "Structured and secure vaccination management workflows",
+      "Templates, plans, and observations in one place",
+      "Quick search and filter by patient, date, or provider"
+    ],
+    "highlightHeadline": "Create & Manage Vaccination Management Efficiently, Automatically.",
+    "highlightCta": "Learn More",
+    "highlightSecondaryTitle": "TEMPLATES",
+    "highlightSecondaryText": "Pre-built templates for quick documentation",
+    "highlightCards": [
+      {
+        "label": "Dashboard View",
+        "text": "Record findings, vitals, and observations with structured fields.",
+        "icon": "fal fa-clipboard-list",
+        "iconBg": "#eef4ff",
+        "iconColor": "#3b6ff6"
+      },
+      {
+        "label": "Treatment Plans",
+        "text": "Document instructions, follow-ups, and care plans in seconds.",
+        "icon": "fal fa-notes-medical",
+        "iconBg": "#fff7ed",
+        "iconColor": "#ea580c"
+      },
+      {
+        "label": "Search & Filter",
+        "text": "Find records by patient, date, provider, or diagnosis instantly.",
+        "icon": "fal fa-search",
+        "iconBg": "#ecfdf5",
+        "iconColor": "#059669"
+      }
+    ],
+    "showcases": [
+      {
+        "title": "Streamlined Vaccination Management Workflows",
+        "description": "Reduce manual steps and keep every vaccination management task connected to patient records, scheduling, and billing.",
+        "bullets": [
+          "Centralized dashboard for real-time visibility",
+          "Smart templates to speed up documentation",
+          "Quick search and filters across all records"
+        ],
+        "reverse": false
+      },
+      {
+        "title": "Collaborate Across Your Care Team",
+        "description": "Give practitioners, nurses, and admin staff shared access to vaccination management data with role-based permissions.",
+        "bullets": [
+          "Role-based access and audit trails",
+          "Shared notes, plans, and follow-up tasks",
+          "Integrated reminders and notifications"
+        ],
+        "reverse": true
+      }
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Why should I use ClinicPro for Vaccination Management?",
+        "answer": "Vaccination Management in ClinicPro connects directly with patient records, scheduling, and billing so your team works from one secure workspace instead of scattered tools."
+      },
+      {
+        "id": 2,
+        "question": "How does pricing work for multiple users?",
+        "answer": "ClinicPro plans scale by clinic size and role. Additional practitioners and modules can be added as your practice grows without changing your core workflow."
+      },
+      {
+        "id": 3,
+        "question": "How do I get started with ClinicPro?",
+        "answer": "Book a demo with our team for a guided walkthrough. We help migrate your data, configure templates, and onboard staff with live training."
+      },
+      {
+        "id": 4,
+        "question": "Is patient data secure?",
+        "answer": "Yes. ClinicPro uses encrypted records, role-based access, and HIPAA-ready infrastructure to protect every patient interaction."
+      }
+    ],
+    "relatedSlugs": [
+      "patient-management",
+      "digital-emr",
+      "clinic-notes",
+      "prescription-management",
+      "appointment-scheduling"
+    ],
+    "images": {
+      "hero": "",
+      "overview": "",
+      "showcaseDashboard": "",
+      "showcaseEditor": "",
+      "highlight": "",
+      "faq": ""
+    }
+  },
+  {
+    "id": "treatment-management",
+    "title": "Treatment Management",
+    "description": "Plan, track, and document treatment sessions with structured care pathways and follow-ups.",
+    "icon": "fal fa-procedures",
+    "iconBg": "#fef3c7",
+    "iconColor": "#d97706",
+    "overviewEyebrow": "OVERVIEW",
+    "overviewTitle": "Complete Treatment Management System",
+    "overviewDescription": "Plan, track, and document treatment sessions with structured care pathways and follow-ups. ClinicPro brings clarity to daily workflows with secure documentation, faster handoffs, and real-time visibility across your practice.",
+    "overviewBenefits": [
+      "Structured and secure treatment management workflows",
+      "Templates, plans, and observations in one place",
+      "Quick search and filter by patient, date, or provider"
+    ],
+    "highlightHeadline": "Create & Manage Treatment Management Efficiently, Automatically.",
+    "highlightCta": "Learn More",
+    "highlightSecondaryTitle": "TEMPLATES",
+    "highlightSecondaryText": "Pre-built templates for quick documentation",
+    "highlightCards": [
+      {
+        "label": "Dashboard View",
+        "text": "Record findings, vitals, and observations with structured fields.",
+        "icon": "fal fa-clipboard-list",
+        "iconBg": "#eef4ff",
+        "iconColor": "#3b6ff6"
+      },
+      {
+        "label": "Treatment Plans",
+        "text": "Document instructions, follow-ups, and care plans in seconds.",
+        "icon": "fal fa-notes-medical",
+        "iconBg": "#fff7ed",
+        "iconColor": "#ea580c"
+      },
+      {
+        "label": "Search & Filter",
+        "text": "Find records by patient, date, provider, or diagnosis instantly.",
+        "icon": "fal fa-search",
+        "iconBg": "#ecfdf5",
+        "iconColor": "#059669"
+      }
+    ],
+    "showcases": [
+      {
+        "title": "Streamlined Treatment Management Workflows",
+        "description": "Reduce manual steps and keep every treatment management task connected to patient records, scheduling, and billing.",
+        "bullets": [
+          "Centralized dashboard for real-time visibility",
+          "Smart templates to speed up documentation",
+          "Quick search and filters across all records"
+        ],
+        "reverse": false
+      },
+      {
+        "title": "Collaborate Across Your Care Team",
+        "description": "Give practitioners, nurses, and admin staff shared access to treatment management data with role-based permissions.",
+        "bullets": [
+          "Role-based access and audit trails",
+          "Shared notes, plans, and follow-up tasks",
+          "Integrated reminders and notifications"
+        ],
+        "reverse": true
+      }
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Why should I use ClinicPro for Treatment Management?",
+        "answer": "Treatment Management in ClinicPro connects directly with patient records, scheduling, and billing so your team works from one secure workspace instead of scattered tools."
+      },
+      {
+        "id": 2,
+        "question": "How does pricing work for multiple users?",
+        "answer": "ClinicPro plans scale by clinic size and role. Additional practitioners and modules can be added as your practice grows without changing your core workflow."
+      },
+      {
+        "id": 3,
+        "question": "How do I get started with ClinicPro?",
+        "answer": "Book a demo with our team for a guided walkthrough. We help migrate your data, configure templates, and onboard staff with live training."
+      },
+      {
+        "id": 4,
+        "question": "Is patient data secure?",
+        "answer": "Yes. ClinicPro uses encrypted records, role-based access, and HIPAA-ready infrastructure to protect every patient interaction."
+      }
+    ],
+    "relatedSlugs": [
+      "patient-management",
+      "digital-emr",
+      "clinic-notes",
+      "prescription-management",
+      "vaccination-management",
+      "appointment-scheduling"
+    ],
+    "images": {
+      "hero": "",
+      "overview": "",
+      "showcaseDashboard": "",
+      "showcaseEditor": "",
+      "highlight": "",
+      "faq": ""
+    }
+  },
+  {
+    "id": "pharmacy-management",
+    "title": "Pharmacy Management",
+    "description": "Manage in-clinic dispensing, drug inventory, and prescription fulfillment in one workflow.",
+    "icon": "fal fa-pills",
+    "iconBg": "#fce7f3",
+    "iconColor": "#be185d",
+    "overviewEyebrow": "OVERVIEW",
+    "overviewTitle": "Complete Pharmacy Management System",
+    "overviewDescription": "Manage in-clinic dispensing, drug inventory, and prescription fulfillment in one workflow. ClinicPro brings clarity to daily workflows with secure documentation, faster handoffs, and real-time visibility across your practice.",
+    "overviewBenefits": [
+      "Structured and secure pharmacy management workflows",
+      "Templates, plans, and observations in one place",
+      "Quick search and filter by patient, date, or provider"
+    ],
+    "highlightHeadline": "Create & Manage Pharmacy Management Efficiently, Automatically.",
+    "highlightCta": "Learn More",
+    "highlightSecondaryTitle": "TEMPLATES",
+    "highlightSecondaryText": "Pre-built templates for quick documentation",
+    "highlightCards": [
+      {
+        "label": "Dashboard View",
+        "text": "Record findings, vitals, and observations with structured fields.",
+        "icon": "fal fa-clipboard-list",
+        "iconBg": "#eef4ff",
+        "iconColor": "#3b6ff6"
+      },
+      {
+        "label": "Treatment Plans",
+        "text": "Document instructions, follow-ups, and care plans in seconds.",
+        "icon": "fal fa-notes-medical",
+        "iconBg": "#fff7ed",
+        "iconColor": "#ea580c"
+      },
+      {
+        "label": "Search & Filter",
+        "text": "Find records by patient, date, provider, or diagnosis instantly.",
+        "icon": "fal fa-search",
+        "iconBg": "#ecfdf5",
+        "iconColor": "#059669"
+      }
+    ],
+    "showcases": [
+      {
+        "title": "Streamlined Pharmacy Management Workflows",
+        "description": "Reduce manual steps and keep every pharmacy management task connected to patient records, scheduling, and billing.",
+        "bullets": [
+          "Centralized dashboard for real-time visibility",
+          "Smart templates to speed up documentation",
+          "Quick search and filters across all records"
+        ],
+        "reverse": false
+      },
+      {
+        "title": "Collaborate Across Your Care Team",
+        "description": "Give practitioners, nurses, and admin staff shared access to pharmacy management data with role-based permissions.",
+        "bullets": [
+          "Role-based access and audit trails",
+          "Shared notes, plans, and follow-up tasks",
+          "Integrated reminders and notifications"
+        ],
+        "reverse": true
+      }
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Why should I use ClinicPro for Pharmacy Management?",
+        "answer": "Pharmacy Management in ClinicPro connects directly with patient records, scheduling, and billing so your team works from one secure workspace instead of scattered tools."
+      },
+      {
+        "id": 2,
+        "question": "How does pricing work for multiple users?",
+        "answer": "ClinicPro plans scale by clinic size and role. Additional practitioners and modules can be added as your practice grows without changing your core workflow."
+      },
+      {
+        "id": 3,
+        "question": "How do I get started with ClinicPro?",
+        "answer": "Book a demo with our team for a guided walkthrough. We help migrate your data, configure templates, and onboard staff with live training."
+      },
+      {
+        "id": 4,
+        "question": "Is patient data secure?",
+        "answer": "Yes. ClinicPro uses encrypted records, role-based access, and HIPAA-ready infrastructure to protect every patient interaction."
+      }
+    ],
+    "relatedSlugs": [
+      "patient-management",
+      "digital-emr",
+      "clinic-notes",
+      "prescription-management",
+      "vaccination-management",
+      "appointment-scheduling"
+    ],
+    "images": {
+      "hero": "",
+      "overview": "",
+      "showcaseDashboard": "",
+      "showcaseEditor": "",
+      "highlight": "",
+      "faq": ""
+    }
+  },
+  {
+    "id": "appointment-scheduling",
+    "title": "Appointment Scheduling",
+    "description": "Book, reschedule, and confirm visits with real-time availability and smart reminders",
+    "icon": "fal fa-calendar-alt",
+    "iconBg": "#f3efff",
+    "iconColor": "#7c5cfc",
+    "overviewEyebrow": "OVERVIEW",
+    "overviewTitle": "Complete Appointment Scheduling System",
+    "overviewDescription": "Book, reschedule, and confirm visits with real-time availability and smart reminders ClinicPro brings clarity to daily workflows with secure documentation, faster handoffs, and real-time visibility across your practice.",
+    "overviewBenefits": [
+      "Structured and secure appointment scheduling workflows",
+      "Templates, plans, and observations in one place",
+      "Quick search and filter by patient, date, or provider"
+    ],
+    "highlightHeadline": "Create & Manage Appointment Scheduling Efficiently, Automatically.",
+    "highlightCta": "Learn More",
+    "highlightSecondaryTitle": "TEMPLATES",
+    "highlightSecondaryText": "Pre-built templates for quick documentation",
+    "highlightCards": [
+      {
+        "label": "Dashboard View",
+        "text": "Record findings, vitals, and observations with structured fields.",
+        "icon": "fal fa-clipboard-list",
+        "iconBg": "#eef4ff",
+        "iconColor": "#3b6ff6"
+      },
+      {
+        "label": "Treatment Plans",
+        "text": "Document instructions, follow-ups, and care plans in seconds.",
+        "icon": "fal fa-notes-medical",
+        "iconBg": "#fff7ed",
+        "iconColor": "#ea580c"
+      },
+      {
+        "label": "Search & Filter",
+        "text": "Find records by patient, date, provider, or diagnosis instantly.",
+        "icon": "fal fa-search",
+        "iconBg": "#ecfdf5",
+        "iconColor": "#059669"
+      }
+    ],
+    "showcases": [
+      {
+        "title": "Streamlined Appointment Scheduling Workflows",
+        "description": "Reduce manual steps and keep every appointment scheduling task connected to patient records, scheduling, and billing.",
+        "bullets": [
+          "Centralized dashboard for real-time visibility",
+          "Smart templates to speed up documentation",
+          "Quick search and filters across all records"
+        ],
+        "reverse": false
+      },
+      {
+        "title": "Collaborate Across Your Care Team",
+        "description": "Give practitioners, nurses, and admin staff shared access to appointment scheduling data with role-based permissions.",
+        "bullets": [
+          "Role-based access and audit trails",
+          "Shared notes, plans, and follow-up tasks",
+          "Integrated reminders and notifications"
+        ],
+        "reverse": true
+      }
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Why should I use ClinicPro for Appointment Scheduling?",
+        "answer": "Appointment Scheduling in ClinicPro connects directly with patient records, scheduling, and billing so your team works from one secure workspace instead of scattered tools."
+      },
+      {
+        "id": 2,
+        "question": "How does pricing work for multiple users?",
+        "answer": "ClinicPro plans scale by clinic size and role. Additional practitioners and modules can be added as your practice grows without changing your core workflow."
+      },
+      {
+        "id": 3,
+        "question": "How do I get started with ClinicPro?",
+        "answer": "Book a demo with our team for a guided walkthrough. We help migrate your data, configure templates, and onboard staff with live training."
+      },
+      {
+        "id": 4,
+        "question": "Is patient data secure?",
+        "answer": "Yes. ClinicPro uses encrypted records, role-based access, and HIPAA-ready infrastructure to protect every patient interaction."
+      }
+    ],
+    "relatedSlugs": [
+      "patient-management",
+      "digital-emr",
+      "clinic-notes",
+      "prescription-management",
+      "vaccination-management"
+    ],
+    "images": {
+      "hero": "",
+      "overview": "",
+      "showcaseDashboard": "",
+      "showcaseEditor": "",
+      "highlight": "",
+      "faq": ""
+    }
+  },
+  {
+    "id": "dynamic-smart-calendar",
+    "title": "Dynamic Smart Calendar",
+    "description": "View day, week, and month schedules with color-coded statuses and doctor-wise filters",
+    "icon": "fal fa-calendar-check",
+    "iconBg": "#fff7ed",
+    "iconColor": "#f97316",
+    "overviewEyebrow": "OVERVIEW",
+    "overviewTitle": "Complete Dynamic Smart Calendar System",
+    "overviewDescription": "View day, week, and month schedules with color-coded statuses and doctor-wise filters ClinicPro brings clarity to daily workflows with secure documentation, faster handoffs, and real-time visibility across your practice.",
+    "overviewBenefits": [
+      "Structured and secure dynamic smart calendar workflows",
+      "Templates, plans, and observations in one place",
+      "Quick search and filter by patient, date, or provider"
+    ],
+    "highlightHeadline": "Create & Manage Dynamic Smart Calendar Efficiently, Automatically.",
+    "highlightCta": "Learn More",
+    "highlightSecondaryTitle": "TEMPLATES",
+    "highlightSecondaryText": "Pre-built templates for quick documentation",
+    "highlightCards": [
+      {
+        "label": "Dashboard View",
+        "text": "Record findings, vitals, and observations with structured fields.",
+        "icon": "fal fa-clipboard-list",
+        "iconBg": "#eef4ff",
+        "iconColor": "#3b6ff6"
+      },
+      {
+        "label": "Treatment Plans",
+        "text": "Document instructions, follow-ups, and care plans in seconds.",
+        "icon": "fal fa-notes-medical",
+        "iconBg": "#fff7ed",
+        "iconColor": "#ea580c"
+      },
+      {
+        "label": "Search & Filter",
+        "text": "Find records by patient, date, provider, or diagnosis instantly.",
+        "icon": "fal fa-search",
+        "iconBg": "#ecfdf5",
+        "iconColor": "#059669"
+      }
+    ],
+    "showcases": [
+      {
+        "title": "Streamlined Dynamic Smart Calendar Workflows",
+        "description": "Reduce manual steps and keep every dynamic smart calendar task connected to patient records, scheduling, and billing.",
+        "bullets": [
+          "Centralized dashboard for real-time visibility",
+          "Smart templates to speed up documentation",
+          "Quick search and filters across all records"
+        ],
+        "reverse": false
+      },
+      {
+        "title": "Collaborate Across Your Care Team",
+        "description": "Give practitioners, nurses, and admin staff shared access to dynamic smart calendar data with role-based permissions.",
+        "bullets": [
+          "Role-based access and audit trails",
+          "Shared notes, plans, and follow-up tasks",
+          "Integrated reminders and notifications"
+        ],
+        "reverse": true
+      }
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Why should I use ClinicPro for Dynamic Smart Calendar?",
+        "answer": "Dynamic Smart Calendar in ClinicPro connects directly with patient records, scheduling, and billing so your team works from one secure workspace instead of scattered tools."
+      },
+      {
+        "id": 2,
+        "question": "How does pricing work for multiple users?",
+        "answer": "ClinicPro plans scale by clinic size and role. Additional practitioners and modules can be added as your practice grows without changing your core workflow."
+      },
+      {
+        "id": 3,
+        "question": "How do I get started with ClinicPro?",
+        "answer": "Book a demo with our team for a guided walkthrough. We help migrate your data, configure templates, and onboard staff with live training."
+      },
+      {
+        "id": 4,
+        "question": "Is patient data secure?",
+        "answer": "Yes. ClinicPro uses encrypted records, role-based access, and HIPAA-ready infrastructure to protect every patient interaction."
+      }
+    ],
+    "relatedSlugs": [
+      "patient-management",
+      "digital-emr",
+      "clinic-notes",
+      "prescription-management",
+      "vaccination-management",
+      "appointment-scheduling"
+    ],
+    "images": {
+      "hero": "",
+      "overview": "",
+      "showcaseDashboard": "",
+      "showcaseEditor": "",
+      "highlight": "",
+      "faq": ""
+    }
+  },
+  {
+    "id": "payments-invoices",
+    "title": "Payments & Invoices",
+    "description": "Collect UPI and card payments with GST-ready invoices and real-time revenue tracking.",
+    "icon": "fal fa-file-invoice-dollar",
+    "iconBg": "#ecfdf5",
+    "iconColor": "#16a34a",
+    "overviewEyebrow": "OVERVIEW",
+    "overviewTitle": "Complete Payments & Invoices System",
+    "overviewDescription": "Collect UPI and card payments with GST-ready invoices and real-time revenue tracking. ClinicPro brings clarity to daily workflows with secure documentation, faster handoffs, and real-time visibility across your practice.",
+    "overviewBenefits": [
+      "Structured and secure payments & invoices workflows",
+      "Templates, plans, and observations in one place",
+      "Quick search and filter by patient, date, or provider"
+    ],
+    "highlightHeadline": "Create & Manage Payments & Invoices Efficiently, Automatically.",
+    "highlightCta": "Learn More",
+    "highlightSecondaryTitle": "TEMPLATES",
+    "highlightSecondaryText": "Pre-built templates for quick documentation",
+    "highlightCards": [
+      {
+        "label": "Dashboard View",
+        "text": "Record findings, vitals, and observations with structured fields.",
+        "icon": "fal fa-clipboard-list",
+        "iconBg": "#eef4ff",
+        "iconColor": "#3b6ff6"
+      },
+      {
+        "label": "Treatment Plans",
+        "text": "Document instructions, follow-ups, and care plans in seconds.",
+        "icon": "fal fa-notes-medical",
+        "iconBg": "#fff7ed",
+        "iconColor": "#ea580c"
+      },
+      {
+        "label": "Search & Filter",
+        "text": "Find records by patient, date, provider, or diagnosis instantly.",
+        "icon": "fal fa-search",
+        "iconBg": "#ecfdf5",
+        "iconColor": "#059669"
+      }
+    ],
+    "showcases": [
+      {
+        "title": "Streamlined Payments & Invoices Workflows",
+        "description": "Reduce manual steps and keep every payments & invoices task connected to patient records, scheduling, and billing.",
+        "bullets": [
+          "Centralized dashboard for real-time visibility",
+          "Smart templates to speed up documentation",
+          "Quick search and filters across all records"
+        ],
+        "reverse": false
+      },
+      {
+        "title": "Collaborate Across Your Care Team",
+        "description": "Give practitioners, nurses, and admin staff shared access to payments & invoices data with role-based permissions.",
+        "bullets": [
+          "Role-based access and audit trails",
+          "Shared notes, plans, and follow-up tasks",
+          "Integrated reminders and notifications"
+        ],
+        "reverse": true
+      }
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Why should I use ClinicPro for Payments & Invoices?",
+        "answer": "Payments & Invoices in ClinicPro connects directly with patient records, scheduling, and billing so your team works from one secure workspace instead of scattered tools."
+      },
+      {
+        "id": 2,
+        "question": "How does pricing work for multiple users?",
+        "answer": "ClinicPro plans scale by clinic size and role. Additional practitioners and modules can be added as your practice grows without changing your core workflow."
+      },
+      {
+        "id": 3,
+        "question": "How do I get started with ClinicPro?",
+        "answer": "Book a demo with our team for a guided walkthrough. We help migrate your data, configure templates, and onboard staff with live training."
+      },
+      {
+        "id": 4,
+        "question": "Is patient data secure?",
+        "answer": "Yes. ClinicPro uses encrypted records, role-based access, and HIPAA-ready infrastructure to protect every patient interaction."
+      }
+    ],
+    "relatedSlugs": [
+      "patient-management",
+      "digital-emr",
+      "clinic-notes",
+      "prescription-management",
+      "vaccination-management",
+      "appointment-scheduling"
+    ],
+    "images": {
+      "hero": "",
+      "overview": "",
+      "showcaseDashboard": "",
+      "showcaseEditor": "",
+      "highlight": "",
+      "faq": ""
+    }
+  },
+  {
+    "id": "telehealth",
+    "title": "Telehealth",
+    "description": "Run secure video consultations with integrated scheduling and linked patient records.",
+    "icon": "fal fa-video",
+    "iconBg": "#ecfeff",
+    "iconColor": "#0891b2",
+    "overviewEyebrow": "OVERVIEW",
+    "overviewTitle": "Complete Telehealth System",
+    "overviewDescription": "Run secure video consultations with integrated scheduling and linked patient records. ClinicPro brings clarity to daily workflows with secure documentation, faster handoffs, and real-time visibility across your practice.",
+    "overviewBenefits": [
+      "Structured and secure telehealth workflows",
+      "Templates, plans, and observations in one place",
+      "Quick search and filter by patient, date, or provider"
+    ],
+    "highlightHeadline": "Create & Manage Telehealth Efficiently, Automatically.",
+    "highlightCta": "Learn More",
+    "highlightSecondaryTitle": "TEMPLATES",
+    "highlightSecondaryText": "Pre-built templates for quick documentation",
+    "highlightCards": [
+      {
+        "label": "Dashboard View",
+        "text": "Record findings, vitals, and observations with structured fields.",
+        "icon": "fal fa-clipboard-list",
+        "iconBg": "#eef4ff",
+        "iconColor": "#3b6ff6"
+      },
+      {
+        "label": "Treatment Plans",
+        "text": "Document instructions, follow-ups, and care plans in seconds.",
+        "icon": "fal fa-notes-medical",
+        "iconBg": "#fff7ed",
+        "iconColor": "#ea580c"
+      },
+      {
+        "label": "Search & Filter",
+        "text": "Find records by patient, date, provider, or diagnosis instantly.",
+        "icon": "fal fa-search",
+        "iconBg": "#ecfdf5",
+        "iconColor": "#059669"
+      }
+    ],
+    "showcases": [
+      {
+        "title": "Streamlined Telehealth Workflows",
+        "description": "Reduce manual steps and keep every telehealth task connected to patient records, scheduling, and billing.",
+        "bullets": [
+          "Centralized dashboard for real-time visibility",
+          "Smart templates to speed up documentation",
+          "Quick search and filters across all records"
+        ],
+        "reverse": false
+      },
+      {
+        "title": "Collaborate Across Your Care Team",
+        "description": "Give practitioners, nurses, and admin staff shared access to telehealth data with role-based permissions.",
+        "bullets": [
+          "Role-based access and audit trails",
+          "Shared notes, plans, and follow-up tasks",
+          "Integrated reminders and notifications"
+        ],
+        "reverse": true
+      }
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Why should I use ClinicPro for Telehealth?",
+        "answer": "Telehealth in ClinicPro connects directly with patient records, scheduling, and billing so your team works from one secure workspace instead of scattered tools."
+      },
+      {
+        "id": 2,
+        "question": "How does pricing work for multiple users?",
+        "answer": "ClinicPro plans scale by clinic size and role. Additional practitioners and modules can be added as your practice grows without changing your core workflow."
+      },
+      {
+        "id": 3,
+        "question": "How do I get started with ClinicPro?",
+        "answer": "Book a demo with our team for a guided walkthrough. We help migrate your data, configure templates, and onboard staff with live training."
+      },
+      {
+        "id": 4,
+        "question": "Is patient data secure?",
+        "answer": "Yes. ClinicPro uses encrypted records, role-based access, and HIPAA-ready infrastructure to protect every patient interaction."
+      }
+    ],
+    "relatedSlugs": [
+      "patient-management",
+      "digital-emr",
+      "clinic-notes",
+      "prescription-management",
+      "vaccination-management",
+      "appointment-scheduling"
+    ],
+    "images": {
+      "hero": "",
+      "overview": "",
+      "showcaseDashboard": "",
+      "showcaseEditor": "",
+      "highlight": "",
+      "faq": ""
+    }
+  },
+  {
+    "id": "reports-analytics",
+    "title": "Reports & Analytics",
+    "description": "Monitor clinic performance with dashboards for revenue, visits, and patient outcomes.",
+    "icon": "fal fa-chart-line",
+    "iconBg": "#f3efff",
+    "iconColor": "#7c5cfc",
+    "overviewEyebrow": "OVERVIEW",
+    "overviewTitle": "Complete Reports & Analytics System",
+    "overviewDescription": "Monitor clinic performance with dashboards for revenue, visits, and patient outcomes. ClinicPro brings clarity to daily workflows with secure documentation, faster handoffs, and real-time visibility across your practice.",
+    "overviewBenefits": [
+      "Structured and secure reports & analytics workflows",
+      "Templates, plans, and observations in one place",
+      "Quick search and filter by patient, date, or provider"
+    ],
+    "highlightHeadline": "Create & Manage Reports & Analytics Efficiently, Automatically.",
+    "highlightCta": "Learn More",
+    "highlightSecondaryTitle": "TEMPLATES",
+    "highlightSecondaryText": "Pre-built templates for quick documentation",
+    "highlightCards": [
+      {
+        "label": "Dashboard View",
+        "text": "Record findings, vitals, and observations with structured fields.",
+        "icon": "fal fa-clipboard-list",
+        "iconBg": "#eef4ff",
+        "iconColor": "#3b6ff6"
+      },
+      {
+        "label": "Treatment Plans",
+        "text": "Document instructions, follow-ups, and care plans in seconds.",
+        "icon": "fal fa-notes-medical",
+        "iconBg": "#fff7ed",
+        "iconColor": "#ea580c"
+      },
+      {
+        "label": "Search & Filter",
+        "text": "Find records by patient, date, provider, or diagnosis instantly.",
+        "icon": "fal fa-search",
+        "iconBg": "#ecfdf5",
+        "iconColor": "#059669"
+      }
+    ],
+    "showcases": [
+      {
+        "title": "Streamlined Reports & Analytics Workflows",
+        "description": "Reduce manual steps and keep every reports & analytics task connected to patient records, scheduling, and billing.",
+        "bullets": [
+          "Centralized dashboard for real-time visibility",
+          "Smart templates to speed up documentation",
+          "Quick search and filters across all records"
+        ],
+        "reverse": false
+      },
+      {
+        "title": "Collaborate Across Your Care Team",
+        "description": "Give practitioners, nurses, and admin staff shared access to reports & analytics data with role-based permissions.",
+        "bullets": [
+          "Role-based access and audit trails",
+          "Shared notes, plans, and follow-up tasks",
+          "Integrated reminders and notifications"
+        ],
+        "reverse": true
+      }
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Why should I use ClinicPro for Reports & Analytics?",
+        "answer": "Reports & Analytics in ClinicPro connects directly with patient records, scheduling, and billing so your team works from one secure workspace instead of scattered tools."
+      },
+      {
+        "id": 2,
+        "question": "How does pricing work for multiple users?",
+        "answer": "ClinicPro plans scale by clinic size and role. Additional practitioners and modules can be added as your practice grows without changing your core workflow."
+      },
+      {
+        "id": 3,
+        "question": "How do I get started with ClinicPro?",
+        "answer": "Book a demo with our team for a guided walkthrough. We help migrate your data, configure templates, and onboard staff with live training."
+      },
+      {
+        "id": 4,
+        "question": "Is patient data secure?",
+        "answer": "Yes. ClinicPro uses encrypted records, role-based access, and HIPAA-ready infrastructure to protect every patient interaction."
+      }
+    ],
+    "relatedSlugs": [
+      "patient-management",
+      "digital-emr",
+      "clinic-notes",
+      "prescription-management",
+      "vaccination-management",
+      "appointment-scheduling"
+    ],
+    "images": {
+      "hero": "",
+      "overview": "",
+      "showcaseDashboard": "",
+      "showcaseEditor": "",
+      "highlight": "",
+      "faq": ""
+    }
+  },
+  {
+    "id": "ai-support",
+    "title": "AI Support",
+    "description": "Get intelligent suggestions for documentation, coding, and everyday workflow optimization.",
+    "icon": "fal fa-robot",
+    "iconBg": "#fce8f3",
+    "iconColor": "#c026d3",
+    "overviewEyebrow": "OVERVIEW",
+    "overviewTitle": "Complete AI Support System",
+    "overviewDescription": "Get intelligent suggestions for documentation, coding, and everyday workflow optimization. ClinicPro brings clarity to daily workflows with secure documentation, faster handoffs, and real-time visibility across your practice.",
+    "overviewBenefits": [
+      "Structured and secure ai support workflows",
+      "Templates, plans, and observations in one place",
+      "Quick search and filter by patient, date, or provider"
+    ],
+    "highlightHeadline": "Create & Manage AI Support Efficiently, Automatically.",
+    "highlightCta": "Learn More",
+    "highlightSecondaryTitle": "TEMPLATES",
+    "highlightSecondaryText": "Pre-built templates for quick documentation",
+    "highlightCards": [
+      {
+        "label": "Dashboard View",
+        "text": "Record findings, vitals, and observations with structured fields.",
+        "icon": "fal fa-clipboard-list",
+        "iconBg": "#eef4ff",
+        "iconColor": "#3b6ff6"
+      },
+      {
+        "label": "Treatment Plans",
+        "text": "Document instructions, follow-ups, and care plans in seconds.",
+        "icon": "fal fa-notes-medical",
+        "iconBg": "#fff7ed",
+        "iconColor": "#ea580c"
+      },
+      {
+        "label": "Search & Filter",
+        "text": "Find records by patient, date, provider, or diagnosis instantly.",
+        "icon": "fal fa-search",
+        "iconBg": "#ecfdf5",
+        "iconColor": "#059669"
+      }
+    ],
+    "showcases": [
+      {
+        "title": "Streamlined AI Support Workflows",
+        "description": "Reduce manual steps and keep every ai support task connected to patient records, scheduling, and billing.",
+        "bullets": [
+          "Centralized dashboard for real-time visibility",
+          "Smart templates to speed up documentation",
+          "Quick search and filters across all records"
+        ],
+        "reverse": false
+      },
+      {
+        "title": "Collaborate Across Your Care Team",
+        "description": "Give practitioners, nurses, and admin staff shared access to ai support data with role-based permissions.",
+        "bullets": [
+          "Role-based access and audit trails",
+          "Shared notes, plans, and follow-up tasks",
+          "Integrated reminders and notifications"
+        ],
+        "reverse": true
+      }
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Why should I use ClinicPro for AI Support?",
+        "answer": "AI Support in ClinicPro connects directly with patient records, scheduling, and billing so your team works from one secure workspace instead of scattered tools."
+      },
+      {
+        "id": 2,
+        "question": "How does pricing work for multiple users?",
+        "answer": "ClinicPro plans scale by clinic size and role. Additional practitioners and modules can be added as your practice grows without changing your core workflow."
+      },
+      {
+        "id": 3,
+        "question": "How do I get started with ClinicPro?",
+        "answer": "Book a demo with our team for a guided walkthrough. We help migrate your data, configure templates, and onboard staff with live training."
+      },
+      {
+        "id": 4,
+        "question": "Is patient data secure?",
+        "answer": "Yes. ClinicPro uses encrypted records, role-based access, and HIPAA-ready infrastructure to protect every patient interaction."
+      }
+    ],
+    "relatedSlugs": [
+      "patient-management",
+      "digital-emr",
+      "clinic-notes",
+      "prescription-management",
+      "vaccination-management",
+      "appointment-scheduling"
+    ],
+    "images": {
+      "hero": "",
+      "overview": "",
+      "showcaseDashboard": "",
+      "showcaseEditor": "",
+      "highlight": "",
+      "faq": ""
+    }
+  },
+  {
+    "id": "email-marketing",
+    "title": "Email Marketing",
+    "description": "Send targeted recall campaigns, health tips, and follow-ups from one branded dashboard.",
+    "icon": "fal fa-envelope-open-text",
+    "iconBg": "#eef4ff",
+    "iconColor": "#2563eb",
+    "overviewEyebrow": "OVERVIEW",
+    "overviewTitle": "Complete Email Marketing System",
+    "overviewDescription": "Send targeted recall campaigns, health tips, and follow-ups from one branded dashboard. ClinicPro brings clarity to daily workflows with secure documentation, faster handoffs, and real-time visibility across your practice.",
+    "overviewBenefits": [
+      "Structured and secure email marketing workflows",
+      "Templates, plans, and observations in one place",
+      "Quick search and filter by patient, date, or provider"
+    ],
+    "highlightHeadline": "Create & Manage Email Marketing Efficiently, Automatically.",
+    "highlightCta": "Learn More",
+    "highlightSecondaryTitle": "TEMPLATES",
+    "highlightSecondaryText": "Pre-built templates for quick documentation",
+    "highlightCards": [
+      {
+        "label": "Dashboard View",
+        "text": "Record findings, vitals, and observations with structured fields.",
+        "icon": "fal fa-clipboard-list",
+        "iconBg": "#eef4ff",
+        "iconColor": "#3b6ff6"
+      },
+      {
+        "label": "Treatment Plans",
+        "text": "Document instructions, follow-ups, and care plans in seconds.",
+        "icon": "fal fa-notes-medical",
+        "iconBg": "#fff7ed",
+        "iconColor": "#ea580c"
+      },
+      {
+        "label": "Search & Filter",
+        "text": "Find records by patient, date, provider, or diagnosis instantly.",
+        "icon": "fal fa-search",
+        "iconBg": "#ecfdf5",
+        "iconColor": "#059669"
+      }
+    ],
+    "showcases": [
+      {
+        "title": "Streamlined Email Marketing Workflows",
+        "description": "Reduce manual steps and keep every email marketing task connected to patient records, scheduling, and billing.",
+        "bullets": [
+          "Centralized dashboard for real-time visibility",
+          "Smart templates to speed up documentation",
+          "Quick search and filters across all records"
+        ],
+        "reverse": false
+      },
+      {
+        "title": "Collaborate Across Your Care Team",
+        "description": "Give practitioners, nurses, and admin staff shared access to email marketing data with role-based permissions.",
+        "bullets": [
+          "Role-based access and audit trails",
+          "Shared notes, plans, and follow-up tasks",
+          "Integrated reminders and notifications"
+        ],
+        "reverse": true
+      }
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Why should I use ClinicPro for Email Marketing?",
+        "answer": "Email Marketing in ClinicPro connects directly with patient records, scheduling, and billing so your team works from one secure workspace instead of scattered tools."
+      },
+      {
+        "id": 2,
+        "question": "How does pricing work for multiple users?",
+        "answer": "ClinicPro plans scale by clinic size and role. Additional practitioners and modules can be added as your practice grows without changing your core workflow."
+      },
+      {
+        "id": 3,
+        "question": "How do I get started with ClinicPro?",
+        "answer": "Book a demo with our team for a guided walkthrough. We help migrate your data, configure templates, and onboard staff with live training."
+      },
+      {
+        "id": 4,
+        "question": "Is patient data secure?",
+        "answer": "Yes. ClinicPro uses encrypted records, role-based access, and HIPAA-ready infrastructure to protect every patient interaction."
+      }
+    ],
+    "relatedSlugs": [
+      "patient-management",
+      "digital-emr",
+      "clinic-notes",
+      "prescription-management",
+      "vaccination-management",
+      "appointment-scheduling"
+    ],
+    "images": {
+      "hero": "",
+      "overview": "",
+      "showcaseDashboard": "",
+      "showcaseEditor": "",
+      "highlight": "",
+      "faq": ""
+    }
+  },
+  {
+    "id": "products-inventory",
+    "title": "Products Inventory",
+    "description": "Manage stock levels, dispensing, and expiry alerts for clinic supplies and products.",
+    "icon": "fal fa-boxes",
+    "iconBg": "#f3efff",
+    "iconColor": "#7c3aed",
+    "overviewEyebrow": "OVERVIEW",
+    "overviewTitle": "Complete Products Inventory System",
+    "overviewDescription": "Manage stock levels, dispensing, and expiry alerts for clinic supplies and products. ClinicPro brings clarity to daily workflows with secure documentation, faster handoffs, and real-time visibility across your practice.",
+    "overviewBenefits": [
+      "Structured and secure products inventory workflows",
+      "Templates, plans, and observations in one place",
+      "Quick search and filter by patient, date, or provider"
+    ],
+    "highlightHeadline": "Create & Manage Products Inventory Efficiently, Automatically.",
+    "highlightCta": "Learn More",
+    "highlightSecondaryTitle": "TEMPLATES",
+    "highlightSecondaryText": "Pre-built templates for quick documentation",
+    "highlightCards": [
+      {
+        "label": "Dashboard View",
+        "text": "Record findings, vitals, and observations with structured fields.",
+        "icon": "fal fa-clipboard-list",
+        "iconBg": "#eef4ff",
+        "iconColor": "#3b6ff6"
+      },
+      {
+        "label": "Treatment Plans",
+        "text": "Document instructions, follow-ups, and care plans in seconds.",
+        "icon": "fal fa-notes-medical",
+        "iconBg": "#fff7ed",
+        "iconColor": "#ea580c"
+      },
+      {
+        "label": "Search & Filter",
+        "text": "Find records by patient, date, provider, or diagnosis instantly.",
+        "icon": "fal fa-search",
+        "iconBg": "#ecfdf5",
+        "iconColor": "#059669"
+      }
+    ],
+    "showcases": [
+      {
+        "title": "Streamlined Products Inventory Workflows",
+        "description": "Reduce manual steps and keep every products inventory task connected to patient records, scheduling, and billing.",
+        "bullets": [
+          "Centralized dashboard for real-time visibility",
+          "Smart templates to speed up documentation",
+          "Quick search and filters across all records"
+        ],
+        "reverse": false
+      },
+      {
+        "title": "Collaborate Across Your Care Team",
+        "description": "Give practitioners, nurses, and admin staff shared access to products inventory data with role-based permissions.",
+        "bullets": [
+          "Role-based access and audit trails",
+          "Shared notes, plans, and follow-up tasks",
+          "Integrated reminders and notifications"
+        ],
+        "reverse": true
+      }
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Why should I use ClinicPro for Products Inventory?",
+        "answer": "Products Inventory in ClinicPro connects directly with patient records, scheduling, and billing so your team works from one secure workspace instead of scattered tools."
+      },
+      {
+        "id": 2,
+        "question": "How does pricing work for multiple users?",
+        "answer": "ClinicPro plans scale by clinic size and role. Additional practitioners and modules can be added as your practice grows without changing your core workflow."
+      },
+      {
+        "id": 3,
+        "question": "How do I get started with ClinicPro?",
+        "answer": "Book a demo with our team for a guided walkthrough. We help migrate your data, configure templates, and onboard staff with live training."
+      },
+      {
+        "id": 4,
+        "question": "Is patient data secure?",
+        "answer": "Yes. ClinicPro uses encrypted records, role-based access, and HIPAA-ready infrastructure to protect every patient interaction."
+      }
+    ],
+    "relatedSlugs": [
+      "patient-management",
+      "digital-emr",
+      "clinic-notes",
+      "prescription-management",
+      "vaccination-management",
+      "appointment-scheduling"
+    ],
+    "images": {
+      "hero": "",
+      "overview": "",
+      "showcaseDashboard": "",
+      "showcaseEditor": "",
+      "highlight": "",
+      "faq": ""
+    }
+  },
+  {
+    "id": "template-management",
+    "title": "Template Management",
+    "description": "Build reusable note, form, and communication templates tailored to your clinic team.",
+    "icon": "fal fa-copy",
+    "iconBg": "#e0f7f4",
+    "iconColor": "#0d9488",
+    "overviewEyebrow": "OVERVIEW",
+    "overviewTitle": "Complete Template Management System",
+    "overviewDescription": "Build reusable note, form, and communication templates tailored to your clinic team. ClinicPro brings clarity to daily workflows with secure documentation, faster handoffs, and real-time visibility across your practice.",
+    "overviewBenefits": [
+      "Structured and secure template management workflows",
+      "Templates, plans, and observations in one place",
+      "Quick search and filter by patient, date, or provider"
+    ],
+    "highlightHeadline": "Create & Manage Template Management Efficiently, Automatically.",
+    "highlightCta": "Learn More",
+    "highlightSecondaryTitle": "TEMPLATES",
+    "highlightSecondaryText": "Pre-built templates for quick documentation",
+    "highlightCards": [
+      {
+        "label": "Dashboard View",
+        "text": "Record findings, vitals, and observations with structured fields.",
+        "icon": "fal fa-clipboard-list",
+        "iconBg": "#eef4ff",
+        "iconColor": "#3b6ff6"
+      },
+      {
+        "label": "Treatment Plans",
+        "text": "Document instructions, follow-ups, and care plans in seconds.",
+        "icon": "fal fa-notes-medical",
+        "iconBg": "#fff7ed",
+        "iconColor": "#ea580c"
+      },
+      {
+        "label": "Search & Filter",
+        "text": "Find records by patient, date, provider, or diagnosis instantly.",
+        "icon": "fal fa-search",
+        "iconBg": "#ecfdf5",
+        "iconColor": "#059669"
+      }
+    ],
+    "showcases": [
+      {
+        "title": "Streamlined Template Management Workflows",
+        "description": "Reduce manual steps and keep every template management task connected to patient records, scheduling, and billing.",
+        "bullets": [
+          "Centralized dashboard for real-time visibility",
+          "Smart templates to speed up documentation",
+          "Quick search and filters across all records"
+        ],
+        "reverse": false
+      },
+      {
+        "title": "Collaborate Across Your Care Team",
+        "description": "Give practitioners, nurses, and admin staff shared access to template management data with role-based permissions.",
+        "bullets": [
+          "Role-based access and audit trails",
+          "Shared notes, plans, and follow-up tasks",
+          "Integrated reminders and notifications"
+        ],
+        "reverse": true
+      }
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Why should I use ClinicPro for Template Management?",
+        "answer": "Template Management in ClinicPro connects directly with patient records, scheduling, and billing so your team works from one secure workspace instead of scattered tools."
+      },
+      {
+        "id": 2,
+        "question": "How does pricing work for multiple users?",
+        "answer": "ClinicPro plans scale by clinic size and role. Additional practitioners and modules can be added as your practice grows without changing your core workflow."
+      },
+      {
+        "id": 3,
+        "question": "How do I get started with ClinicPro?",
+        "answer": "Book a demo with our team for a guided walkthrough. We help migrate your data, configure templates, and onboard staff with live training."
+      },
+      {
+        "id": 4,
+        "question": "Is patient data secure?",
+        "answer": "Yes. ClinicPro uses encrypted records, role-based access, and HIPAA-ready infrastructure to protect every patient interaction."
+      }
+    ],
+    "relatedSlugs": [
+      "patient-management",
+      "digital-emr",
+      "clinic-notes",
+      "prescription-management",
+      "vaccination-management",
+      "appointment-scheduling"
+    ],
+    "images": {
+      "hero": "",
+      "overview": "",
+      "showcaseDashboard": "",
+      "showcaseEditor": "",
+      "highlight": "",
+      "faq": ""
+    }
+  },
+  {
+    "id": "online-forms",
+    "title": "Online Forms",
+    "description": "Collect intake, consent, and feedback digitally before patients walk through your door.",
+    "icon": "fal fa-clipboard-list",
+    "iconBg": "#fff7ed",
+    "iconColor": "#ea580c",
+    "overviewEyebrow": "OVERVIEW",
+    "overviewTitle": "Complete Online Forms System",
+    "overviewDescription": "Collect intake, consent, and feedback digitally before patients walk through your door. ClinicPro brings clarity to daily workflows with secure documentation, faster handoffs, and real-time visibility across your practice.",
+    "overviewBenefits": [
+      "Structured and secure online forms workflows",
+      "Templates, plans, and observations in one place",
+      "Quick search and filter by patient, date, or provider"
+    ],
+    "highlightHeadline": "Create & Manage Online Forms Efficiently, Automatically.",
+    "highlightCta": "Learn More",
+    "highlightSecondaryTitle": "TEMPLATES",
+    "highlightSecondaryText": "Pre-built templates for quick documentation",
+    "highlightCards": [
+      {
+        "label": "Dashboard View",
+        "text": "Record findings, vitals, and observations with structured fields.",
+        "icon": "fal fa-clipboard-list",
+        "iconBg": "#eef4ff",
+        "iconColor": "#3b6ff6"
+      },
+      {
+        "label": "Treatment Plans",
+        "text": "Document instructions, follow-ups, and care plans in seconds.",
+        "icon": "fal fa-notes-medical",
+        "iconBg": "#fff7ed",
+        "iconColor": "#ea580c"
+      },
+      {
+        "label": "Search & Filter",
+        "text": "Find records by patient, date, provider, or diagnosis instantly.",
+        "icon": "fal fa-search",
+        "iconBg": "#ecfdf5",
+        "iconColor": "#059669"
+      }
+    ],
+    "showcases": [
+      {
+        "title": "Streamlined Online Forms Workflows",
+        "description": "Reduce manual steps and keep every online forms task connected to patient records, scheduling, and billing.",
+        "bullets": [
+          "Centralized dashboard for real-time visibility",
+          "Smart templates to speed up documentation",
+          "Quick search and filters across all records"
+        ],
+        "reverse": false
+      },
+      {
+        "title": "Collaborate Across Your Care Team",
+        "description": "Give practitioners, nurses, and admin staff shared access to online forms data with role-based permissions.",
+        "bullets": [
+          "Role-based access and audit trails",
+          "Shared notes, plans, and follow-up tasks",
+          "Integrated reminders and notifications"
+        ],
+        "reverse": true
+      }
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Why should I use ClinicPro for Online Forms?",
+        "answer": "Online Forms in ClinicPro connects directly with patient records, scheduling, and billing so your team works from one secure workspace instead of scattered tools."
+      },
+      {
+        "id": 2,
+        "question": "How does pricing work for multiple users?",
+        "answer": "ClinicPro plans scale by clinic size and role. Additional practitioners and modules can be added as your practice grows without changing your core workflow."
+      },
+      {
+        "id": 3,
+        "question": "How do I get started with ClinicPro?",
+        "answer": "Book a demo with our team for a guided walkthrough. We help migrate your data, configure templates, and onboard staff with live training."
+      },
+      {
+        "id": 4,
+        "question": "Is patient data secure?",
+        "answer": "Yes. ClinicPro uses encrypted records, role-based access, and HIPAA-ready infrastructure to protect every patient interaction."
+      }
+    ],
+    "relatedSlugs": [
+      "patient-management",
+      "digital-emr",
+      "clinic-notes",
+      "prescription-management",
+      "vaccination-management",
+      "appointment-scheduling"
+    ],
+    "images": {
+      "hero": "",
+      "overview": "",
+      "showcaseDashboard": "",
+      "showcaseEditor": "",
+      "highlight": "",
+      "faq": ""
+    }
+  },
+  {
+    "id": "secure-patient-portal",
+    "title": "Secure Patient Portal",
+    "description": "Give patients a protected space to view records, bills, prescriptions, and messages.",
+    "icon": "fal fa-shield-check",
+    "iconBg": "#eef4ff",
+    "iconColor": "#2563eb",
+    "overviewEyebrow": "OVERVIEW",
+    "overviewTitle": "Complete Secure Patient Portal System",
+    "overviewDescription": "Give patients a protected space to view records, bills, prescriptions, and messages. ClinicPro brings clarity to daily workflows with secure documentation, faster handoffs, and real-time visibility across your practice.",
+    "overviewBenefits": [
+      "Structured and secure secure patient portal workflows",
+      "Templates, plans, and observations in one place",
+      "Quick search and filter by patient, date, or provider"
+    ],
+    "highlightHeadline": "Create & Manage Secure Patient Portal Efficiently, Automatically.",
+    "highlightCta": "Learn More",
+    "highlightSecondaryTitle": "TEMPLATES",
+    "highlightSecondaryText": "Pre-built templates for quick documentation",
+    "highlightCards": [
+      {
+        "label": "Dashboard View",
+        "text": "Record findings, vitals, and observations with structured fields.",
+        "icon": "fal fa-clipboard-list",
+        "iconBg": "#eef4ff",
+        "iconColor": "#3b6ff6"
+      },
+      {
+        "label": "Treatment Plans",
+        "text": "Document instructions, follow-ups, and care plans in seconds.",
+        "icon": "fal fa-notes-medical",
+        "iconBg": "#fff7ed",
+        "iconColor": "#ea580c"
+      },
+      {
+        "label": "Search & Filter",
+        "text": "Find records by patient, date, provider, or diagnosis instantly.",
+        "icon": "fal fa-search",
+        "iconBg": "#ecfdf5",
+        "iconColor": "#059669"
+      }
+    ],
+    "showcases": [
+      {
+        "title": "Streamlined Secure Patient Portal Workflows",
+        "description": "Reduce manual steps and keep every secure patient portal task connected to patient records, scheduling, and billing.",
+        "bullets": [
+          "Centralized dashboard for real-time visibility",
+          "Smart templates to speed up documentation",
+          "Quick search and filters across all records"
+        ],
+        "reverse": false
+      },
+      {
+        "title": "Collaborate Across Your Care Team",
+        "description": "Give practitioners, nurses, and admin staff shared access to secure patient portal data with role-based permissions.",
+        "bullets": [
+          "Role-based access and audit trails",
+          "Shared notes, plans, and follow-up tasks",
+          "Integrated reminders and notifications"
+        ],
+        "reverse": true
+      }
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Why should I use ClinicPro for Secure Patient Portal?",
+        "answer": "Secure Patient Portal in ClinicPro connects directly with patient records, scheduling, and billing so your team works from one secure workspace instead of scattered tools."
+      },
+      {
+        "id": 2,
+        "question": "How does pricing work for multiple users?",
+        "answer": "ClinicPro plans scale by clinic size and role. Additional practitioners and modules can be added as your practice grows without changing your core workflow."
+      },
+      {
+        "id": 3,
+        "question": "How do I get started with ClinicPro?",
+        "answer": "Book a demo with our team for a guided walkthrough. We help migrate your data, configure templates, and onboard staff with live training."
+      },
+      {
+        "id": 4,
+        "question": "Is patient data secure?",
+        "answer": "Yes. ClinicPro uses encrypted records, role-based access, and HIPAA-ready infrastructure to protect every patient interaction."
+      }
+    ],
+    "relatedSlugs": [
+      "patient-management",
+      "digital-emr",
+      "clinic-notes",
+      "prescription-management",
+      "vaccination-management",
+      "appointment-scheduling"
+    ],
+    "images": {
+      "hero": "",
+      "overview": "",
+      "showcaseDashboard": "",
+      "showcaseEditor": "",
+      "highlight": "",
+      "faq": ""
+    }
+  },
+  {
+    "id": "automated-reminders",
+    "title": "Automated Reminders",
+    "description": "Reduce no-shows with SMS and email reminders tuned to your clinic rules and timing.",
+    "icon": "fal fa-bell",
+    "iconBg": "#fefce8",
+    "iconColor": "#ca8a04",
+    "overviewEyebrow": "OVERVIEW",
+    "overviewTitle": "Complete Automated Reminders System",
+    "overviewDescription": "Reduce no-shows with SMS and email reminders tuned to your clinic rules and timing. ClinicPro brings clarity to daily workflows with secure documentation, faster handoffs, and real-time visibility across your practice.",
+    "overviewBenefits": [
+      "Structured and secure automated reminders workflows",
+      "Templates, plans, and observations in one place",
+      "Quick search and filter by patient, date, or provider"
+    ],
+    "highlightHeadline": "Create & Manage Automated Reminders Efficiently, Automatically.",
+    "highlightCta": "Learn More",
+    "highlightSecondaryTitle": "TEMPLATES",
+    "highlightSecondaryText": "Pre-built templates for quick documentation",
+    "highlightCards": [
+      {
+        "label": "Dashboard View",
+        "text": "Record findings, vitals, and observations with structured fields.",
+        "icon": "fal fa-clipboard-list",
+        "iconBg": "#eef4ff",
+        "iconColor": "#3b6ff6"
+      },
+      {
+        "label": "Treatment Plans",
+        "text": "Document instructions, follow-ups, and care plans in seconds.",
+        "icon": "fal fa-notes-medical",
+        "iconBg": "#fff7ed",
+        "iconColor": "#ea580c"
+      },
+      {
+        "label": "Search & Filter",
+        "text": "Find records by patient, date, provider, or diagnosis instantly.",
+        "icon": "fal fa-search",
+        "iconBg": "#ecfdf5",
+        "iconColor": "#059669"
+      }
+    ],
+    "showcases": [
+      {
+        "title": "Streamlined Automated Reminders Workflows",
+        "description": "Reduce manual steps and keep every automated reminders task connected to patient records, scheduling, and billing.",
+        "bullets": [
+          "Centralized dashboard for real-time visibility",
+          "Smart templates to speed up documentation",
+          "Quick search and filters across all records"
+        ],
+        "reverse": false
+      },
+      {
+        "title": "Collaborate Across Your Care Team",
+        "description": "Give practitioners, nurses, and admin staff shared access to automated reminders data with role-based permissions.",
+        "bullets": [
+          "Role-based access and audit trails",
+          "Shared notes, plans, and follow-up tasks",
+          "Integrated reminders and notifications"
+        ],
+        "reverse": true
+      }
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Why should I use ClinicPro for Automated Reminders?",
+        "answer": "Automated Reminders in ClinicPro connects directly with patient records, scheduling, and billing so your team works from one secure workspace instead of scattered tools."
+      },
+      {
+        "id": 2,
+        "question": "How does pricing work for multiple users?",
+        "answer": "ClinicPro plans scale by clinic size and role. Additional practitioners and modules can be added as your practice grows without changing your core workflow."
+      },
+      {
+        "id": 3,
+        "question": "How do I get started with ClinicPro?",
+        "answer": "Book a demo with our team for a guided walkthrough. We help migrate your data, configure templates, and onboard staff with live training."
+      },
+      {
+        "id": 4,
+        "question": "Is patient data secure?",
+        "answer": "Yes. ClinicPro uses encrypted records, role-based access, and HIPAA-ready infrastructure to protect every patient interaction."
+      }
+    ],
+    "relatedSlugs": [
+      "patient-management",
+      "digital-emr",
+      "clinic-notes",
+      "prescription-management",
+      "vaccination-management",
+      "appointment-scheduling"
+    ],
+    "images": {
+      "hero": "",
+      "overview": "",
+      "showcaseDashboard": "",
+      "showcaseEditor": "",
+      "highlight": "",
+      "faq": ""
+    }
+  },
+  {
+    "id": "multi-location-clinics",
+    "title": "Multi-Location Clinics",
+    "description": "Operate across branches with centralized reporting, inventory, and role-based access.",
+    "icon": "fal fa-hospital",
+    "iconBg": "#ecfdf5",
+    "iconColor": "#059669",
+    "overviewEyebrow": "OVERVIEW",
+    "overviewTitle": "Complete Multi-Location Clinics System",
+    "overviewDescription": "Operate across branches with centralized reporting, inventory, and role-based access. ClinicPro brings clarity to daily workflows with secure documentation, faster handoffs, and real-time visibility across your practice.",
+    "overviewBenefits": [
+      "Structured and secure multi-location clinics workflows",
+      "Templates, plans, and observations in one place",
+      "Quick search and filter by patient, date, or provider"
+    ],
+    "highlightHeadline": "Create & Manage Multi-Location Clinics Efficiently, Automatically.",
+    "highlightCta": "Learn More",
+    "highlightSecondaryTitle": "TEMPLATES",
+    "highlightSecondaryText": "Pre-built templates for quick documentation",
+    "highlightCards": [
+      {
+        "label": "Dashboard View",
+        "text": "Record findings, vitals, and observations with structured fields.",
+        "icon": "fal fa-clipboard-list",
+        "iconBg": "#eef4ff",
+        "iconColor": "#3b6ff6"
+      },
+      {
+        "label": "Treatment Plans",
+        "text": "Document instructions, follow-ups, and care plans in seconds.",
+        "icon": "fal fa-notes-medical",
+        "iconBg": "#fff7ed",
+        "iconColor": "#ea580c"
+      },
+      {
+        "label": "Search & Filter",
+        "text": "Find records by patient, date, provider, or diagnosis instantly.",
+        "icon": "fal fa-search",
+        "iconBg": "#ecfdf5",
+        "iconColor": "#059669"
+      }
+    ],
+    "showcases": [
+      {
+        "title": "Streamlined Multi-Location Clinics Workflows",
+        "description": "Reduce manual steps and keep every multi-location clinics task connected to patient records, scheduling, and billing.",
+        "bullets": [
+          "Centralized dashboard for real-time visibility",
+          "Smart templates to speed up documentation",
+          "Quick search and filters across all records"
+        ],
+        "reverse": false
+      },
+      {
+        "title": "Collaborate Across Your Care Team",
+        "description": "Give practitioners, nurses, and admin staff shared access to multi-location clinics data with role-based permissions.",
+        "bullets": [
+          "Role-based access and audit trails",
+          "Shared notes, plans, and follow-up tasks",
+          "Integrated reminders and notifications"
+        ],
+        "reverse": true
+      }
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Why should I use ClinicPro for Multi-Location Clinics?",
+        "answer": "Multi-Location Clinics in ClinicPro connects directly with patient records, scheduling, and billing so your team works from one secure workspace instead of scattered tools."
+      },
+      {
+        "id": 2,
+        "question": "How does pricing work for multiple users?",
+        "answer": "ClinicPro plans scale by clinic size and role. Additional practitioners and modules can be added as your practice grows without changing your core workflow."
+      },
+      {
+        "id": 3,
+        "question": "How do I get started with ClinicPro?",
+        "answer": "Book a demo with our team for a guided walkthrough. We help migrate your data, configure templates, and onboard staff with live training."
+      },
+      {
+        "id": 4,
+        "question": "Is patient data secure?",
+        "answer": "Yes. ClinicPro uses encrypted records, role-based access, and HIPAA-ready infrastructure to protect every patient interaction."
+      }
+    ],
+    "relatedSlugs": [
+      "patient-management",
+      "digital-emr",
+      "clinic-notes",
+      "prescription-management",
+      "vaccination-management",
+      "appointment-scheduling"
+    ],
+    "images": {
+      "hero": "",
+      "overview": "",
+      "showcaseDashboard": "",
+      "showcaseEditor": "",
+      "highlight": "",
+      "faq": ""
+    }
+  },
+  {
+    "id": "multi-user-role",
+    "title": "Multi User Role",
+    "description": "Assign role-based permissions so doctors, staff, and admins see exactly what they need.",
+    "icon": "fal fa-users-cog",
+    "iconBg": "#eef4ff",
+    "iconColor": "#2563eb",
+    "overviewEyebrow": "OVERVIEW",
+    "overviewTitle": "Complete Multi User Role System",
+    "overviewDescription": "Assign role-based permissions so doctors, staff, and admins see exactly what they need. ClinicPro brings clarity to daily workflows with secure documentation, faster handoffs, and real-time visibility across your practice.",
+    "overviewBenefits": [
+      "Structured and secure multi user role workflows",
+      "Templates, plans, and observations in one place",
+      "Quick search and filter by patient, date, or provider"
+    ],
+    "highlightHeadline": "Create & Manage Multi User Role Efficiently, Automatically.",
+    "highlightCta": "Learn More",
+    "highlightSecondaryTitle": "TEMPLATES",
+    "highlightSecondaryText": "Pre-built templates for quick documentation",
+    "highlightCards": [
+      {
+        "label": "Dashboard View",
+        "text": "Record findings, vitals, and observations with structured fields.",
+        "icon": "fal fa-clipboard-list",
+        "iconBg": "#eef4ff",
+        "iconColor": "#3b6ff6"
+      },
+      {
+        "label": "Treatment Plans",
+        "text": "Document instructions, follow-ups, and care plans in seconds.",
+        "icon": "fal fa-notes-medical",
+        "iconBg": "#fff7ed",
+        "iconColor": "#ea580c"
+      },
+      {
+        "label": "Search & Filter",
+        "text": "Find records by patient, date, provider, or diagnosis instantly.",
+        "icon": "fal fa-search",
+        "iconBg": "#ecfdf5",
+        "iconColor": "#059669"
+      }
+    ],
+    "showcases": [
+      {
+        "title": "Streamlined Multi User Role Workflows",
+        "description": "Reduce manual steps and keep every multi user role task connected to patient records, scheduling, and billing.",
+        "bullets": [
+          "Centralized dashboard for real-time visibility",
+          "Smart templates to speed up documentation",
+          "Quick search and filters across all records"
+        ],
+        "reverse": false
+      },
+      {
+        "title": "Collaborate Across Your Care Team",
+        "description": "Give practitioners, nurses, and admin staff shared access to multi user role data with role-based permissions.",
+        "bullets": [
+          "Role-based access and audit trails",
+          "Shared notes, plans, and follow-up tasks",
+          "Integrated reminders and notifications"
+        ],
+        "reverse": true
+      }
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Why should I use ClinicPro for Multi User Role?",
+        "answer": "Multi User Role in ClinicPro connects directly with patient records, scheduling, and billing so your team works from one secure workspace instead of scattered tools."
+      },
+      {
+        "id": 2,
+        "question": "How does pricing work for multiple users?",
+        "answer": "ClinicPro plans scale by clinic size and role. Additional practitioners and modules can be added as your practice grows without changing your core workflow."
+      },
+      {
+        "id": 3,
+        "question": "How do I get started with ClinicPro?",
+        "answer": "Book a demo with our team for a guided walkthrough. We help migrate your data, configure templates, and onboard staff with live training."
+      },
+      {
+        "id": 4,
+        "question": "Is patient data secure?",
+        "answer": "Yes. ClinicPro uses encrypted records, role-based access, and HIPAA-ready infrastructure to protect every patient interaction."
+      }
+    ],
+    "relatedSlugs": [
+      "patient-management",
+      "digital-emr",
+      "clinic-notes",
+      "prescription-management",
+      "vaccination-management",
+      "appointment-scheduling"
+    ],
+    "images": {
+      "hero": "",
+      "overview": "",
+      "showcaseDashboard": "",
+      "showcaseEditor": "",
+      "highlight": "",
+      "faq": ""
+    }
+  }
+]

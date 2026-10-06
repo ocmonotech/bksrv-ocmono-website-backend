@@ -1,0 +1,13 @@
+{
+  "title": "ENT Specialists",
+  "slug": "ent-specialists",
+  "description": "Specialized clinic management for Ear, Nose, and Throat specialists.",
+  "image": "/assets/img/speciality/ENT  Specialist.png",
+  "mega_menu_column": 0,
+  "sort_order": 6,
+  "show_on_homepage": true,
+  "animation_delay": ".8s",
+  "status": "published",
+  "meta_title": "ClinicPro for ENT Specialists",
+  "meta_description": "ENT clinic management software for ear, nose, and throat specialists."
+}

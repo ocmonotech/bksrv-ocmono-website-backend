@@ -1,0 +1,63 @@
+{
+  "eyebrow": "Legal",
+  "title": "Terms of Use",
+  "lead": "The rules that apply when you browse ocmono.com, enquire about our services, or use OCMONO SaaS products.",
+  "updated": "3 August 2026",
+  "sections": [
+    {
+      "heading": "Agreement",
+      "paragraphs": [
+        "By accessing ocmono.com or related OCMONO sites, you agree to these Terms of Use and our Privacy Policy. If you do not agree, please do not use the site.",
+        "Product-specific terms (for example ClinicPro or MenuBip subscriptions) may apply in addition when you create an account or purchase a plan."
+      ]
+    },
+    {
+      "heading": "Services described",
+      "paragraphs": [
+        "Content on this site describes OCMONO’s performance marketing services and SaaS products. Features, pricing, availability, and timelines may change. Nothing on the site is a binding offer until confirmed in a written proposal, order form, or product checkout."
+      ]
+    },
+    {
+      "heading": "Acceptable use",
+      "paragraphs": [
+        "You agree not to:"
+      ],
+      "bullets": [
+        "Misuse forms, demos, or waitlists (spam, false identity, or automated abuse)",
+        "Attempt to disrupt, scrape, or reverse engineer our sites or products beyond permitted APIs",
+        "Use our materials to infringe intellectual property or violate applicable law",
+        "Upload unlawful, harmful, or confidential data you are not authorised to share"
+      ]
+    },
+    {
+      "heading": "Intellectual property",
+      "paragraphs": [
+        "Site design, branding, copy, and software are owned by OCMONO or its licensors. You may not copy, redistribute, or create derivative works without written permission, except for personal, non-commercial viewing of public pages."
+      ]
+    },
+    {
+      "heading": "Third-party links & products",
+      "paragraphs": [
+        "Our site may link to third-party sites or product domains we operate. Those services may have their own terms and privacy policies. OCMONO is not responsible for third-party content we do not control."
+      ]
+    },
+    {
+      "heading": "Disclaimer & liability",
+      "paragraphs": [
+        "Site content is provided “as is” without warranties of uninterrupted availability or fitness for a particular purpose. To the fullest extent permitted by law, OCMONO is not liable for indirect, incidental, or consequential damages arising from use of the site. For paid products or agency engagements, liability is governed by the applicable commercial agreement."
+      ]
+    },
+    {
+      "heading": "Changes",
+      "paragraphs": [
+        "We may update these Terms from time to time. The “Last updated” date at the top will change when we do. Continued use of the site after updates constitutes acceptance of the revised Terms."
+      ]
+    },
+    {
+      "heading": "Contact",
+      "paragraphs": [
+        "OCMONO Avenues Pvt Ltd · contact@ocmono.com · +91 8850 533614 · Goregaon East, Mumbai 400063."
+      ]
+    }
+  ]
+}

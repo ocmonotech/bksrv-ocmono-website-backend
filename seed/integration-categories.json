@@ -1,0 +1,10 @@
+[
+  { "id": "all", "label": "All" },
+  { "id": "payments", "label": "Payments" },
+  { "id": "communications", "label": "Communications" },
+  { "id": "scheduling", "label": "Scheduling" },
+  { "id": "billing", "label": "Billing" },
+  { "id": "pharmacy", "label": "Pharmacy" },
+  { "id": "diagnostics", "label": "Diagnostics" },
+  { "id": "patient-acquisition", "label": "Patient acquisition" }
+]

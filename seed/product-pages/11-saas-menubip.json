@@ -1,0 +1,152 @@
+{
+  "category": "saas-product",
+  "title": "MenuBip",
+  "slug": "menubip",
+  "description": "Publish a public QR menu, take dine-in, takeaway, and delivery orders, and run restaurant POS ops — from signup to kitchen ticket.",
+  "content": "<p>QR menus that take orders.</p>",
+  "image": "/assets/img/dashboard.png",
+  "link": "https://menubip.com",
+  "sort_order": 2,
+  "status": "published",
+  "meta_title": "MenuBip — QR Menus & Ordering | OCMONO",
+  "meta_description": "MenuBip by OCMONO: QR menus, live ordering, kitchen routing, and restaurant POS. See features and pricing.",
+  "capabilities_json": [
+    {
+      "icon": "smartphone",
+      "title": "Your menu URL",
+      "description": "Claim a username — guests open app.menubip.com/your-username via QR."
+    },
+    {
+      "icon": "list-checks",
+      "title": "Orders to kitchen",
+      "description": "Route dine-in, takeaway, and delivery tickets to kitchen displays."
+    },
+    {
+      "icon": "layout-dashboard",
+      "title": "One dashboard",
+      "description": "Edit dishes, manage tables, capture guests, and watch live service."
+    },
+    {
+      "icon": "credit-card",
+      "title": "Razorpay billing",
+      "description": "Pay with UPI / PhonePe and unlock plans from the dashboard."
+    },
+    {
+      "icon": "bar-chart",
+      "title": "POS & GST",
+      "description": "Day-end close, Z-reports, GST invoices, stock purchasing on Pro+."
+    },
+    {
+      "icon": "users",
+      "title": "Multi-property",
+      "description": "Enterprise tools for loyalty, events, custom domains, and multi-outlet control."
+    }
+  ],
+  "saas_meta_json": {
+    "product_status": "live",
+    "tagline": "QR menus that take orders",
+    "industry": "Restaurants & F&B",
+    "accent": "#0f766e",
+    "audience": "Restaurants, cafés, hotels, and multi-outlet F&B brands",
+    "problem": "Paper menus and scattered order channels slow service. Guests want to scan, order, and pay without installing another app.",
+    "cta_primary": {
+      "label": "Create account",
+      "href": "https://app.menubip.com"
+    },
+    "cta_secondary": {
+      "label": "View demo menu",
+      "href": "https://menubip.com"
+    },
+    "deep_features": [
+      {
+        "title": "From QR scan to kitchen",
+        "text": "Guests browse and order without an app install. Tickets route live so front of house and kitchen stay aligned."
+      },
+      {
+        "title": "Plans for every stage",
+        "text": "Start with a polished QR menu, then unlock ordering, POS, GST, and multi-property as you grow."
+      },
+      {
+        "title": "Built for busy service",
+        "text": "Tables, discounts, guest capture, WhatsApp alerts, and analytics keep service nights under control."
+      }
+    ],
+    "pricing": {
+      "currency": "INR",
+      "note": "Paid plans unlock in the MenuBip dashboard via Razorpay. Prices in ₹ / month.",
+      "plans": [
+        {
+          "id": "starter",
+          "name": "Starter",
+          "price": 999,
+          "period": "month",
+          "popular": false,
+          "badge": "15-day free trial",
+          "features": [
+            "Interactive QR menu",
+            "Up to 5 offer images",
+            "Overview dashboard",
+            "Menu editor & settings",
+            "Guest menu link (view-only)"
+          ]
+        },
+        {
+          "id": "business",
+          "name": "Business",
+          "price": 2499,
+          "period": "month",
+          "popular": false,
+          "features": [
+            "Everything in Starter",
+            "Live order routing",
+            "Dine-in, takeaway & delivery",
+            "Kitchen display integration",
+            "WhatsApp order alerts"
+          ]
+        },
+        {
+          "id": "pro",
+          "name": "Pro",
+          "price": 3499,
+          "period": "month",
+          "popular": true,
+          "features": [
+            "Everything in Business",
+            "Day-end / Z-reports",
+            "Restaurant POS operations",
+            "GST tax invoices",
+            "Purchase orders & stock alerts"
+          ]
+        },
+        {
+          "id": "enterprise",
+          "name": "Enterprise",
+          "price": 4999,
+          "period": "month",
+          "popular": false,
+          "features": [
+            "Everything in Pro",
+            "Multi-property management",
+            "Loyalty & SMS marketing",
+            "Custom domains",
+            "Dedicated account manager"
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "q": "Do guests need an app?",
+        "a": "No. Guests open your public menu URL from a QR code — no install required."
+      },
+      {
+        "q": "How do I start?",
+        "a": "Register on app.menubip.com, pick a username and plan, then share your QR menu."
+      },
+      {
+        "q": "What payments are supported for billing?",
+        "a": "Plan upgrades use Razorpay with UPI (including PhonePe) and other supported methods."
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Dermatologists",
+  "slug": "dermatologists",
+  "description": "Advanced practice management for dermatologists with skin condition documentation and treatment tracking.",
+  "image": "/assets/img/speciality/dermatologist.webp",
+  "mega_menu_column": 0,
+  "sort_order": 3,
+  "show_on_homepage": true,
+  "animation_delay": ".5s",
+  "status": "published",
+  "meta_title": "ClinicPro for Dermatologists",
+  "meta_description": "Dermatology practice software for skin condition documentation and treatment tracking."
+}

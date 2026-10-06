@@ -1,0 +1,278 @@
+{
+  "pricingPlans": {
+    "monthly": [
+      {
+        "id": 1,
+        "cls": "",
+        "title": "Part-time",
+        "subtitle": "Part-time Plan",
+        "btnText": "Get Part-time"
+      },
+      {
+        "id": 2,
+        "cls": "active",
+        "title": "Full-time",
+        "subtitle": "Full-time Plan",
+        "btnText": "Get Full-time"
+      },
+      {
+        "id": 3,
+        "cls": "",
+        "title": "Your own team",
+        "subtitle": "Team Plan",
+        "btnText": "Get Your Team"
+      }
+    ],
+    "yearly": [
+      {
+        "id": 1,
+        "cls": "",
+        "title": "Part-time",
+        "subtitle": "Part-time Plan",
+        "btnText": "Get Part-time"
+      },
+      {
+        "id": 2,
+        "cls": "active",
+        "title": "Full-time",
+        "subtitle": "Full-time Plan",
+        "btnText": "Get Full-time"
+      },
+      {
+        "id": 3,
+        "cls": "",
+        "title": "Your own team",
+        "subtitle": "Team Plan",
+        "btnText": "Get Your Team"
+      }
+    ]
+  },
+  "pricingComparison": {
+    "monthly": [
+      { "type": "section", "title": "Pricing" },
+      { "type": "row", "title": "Monthly Retainer", "values": ["₹2,450", "₹3,950", "₹5,450"] },
+      { "type": "section", "title": "Delivery" },
+      { "type": "row", "title": "Turnaround", "values": ["2-5 business days", "1-3 business days", "Priority lane"] },
+      { "type": "row", "title": "Active Requests", "values": ["1", "1", "2"] },
+      { "type": "section", "title": "Services Included" },
+      { "type": "row", "title": "UI/UX Design", "values": ["check", "check", "check"] },
+      { "type": "row", "title": "Web Development", "values": ["check", "check", "check"] },
+      { "type": "row", "title": "SEO Support", "values": ["times", "check", "check"] },
+      { "type": "row", "title": "Digital Marketing Execution", "values": ["times", "check", "check"] },
+      { "type": "row", "title": "E-commerce Optimization", "values": ["times", "check", "check"] },
+      { "type": "section", "title": "Team and Support" },
+      { "type": "row", "title": "Dedicated Project Manager", "values": ["check", "check", "check"] },
+      { "type": "row", "title": "Dedicated Account Manager", "values": ["times", "times", "check"] },
+      { "type": "row", "title": "Support Channel", "values": ["Email + Chat", "Priority Email + Chat", "Priority + Strategy Calls"] },
+      { "type": "section", "title": "Flexibility" },
+      { "type": "row", "title": "Pause or Cancel Anytime", "values": ["check", "check", "check"] }
+    ],
+    "yearly": [
+      { "type": "section", "title": "Pricing" },
+      { "type": "row", "title": "Yearly Retainer", "values": ["₹24,500", "₹39,500", "₹54,500"] },
+      { "type": "section", "title": "Delivery" },
+      { "type": "row", "title": "Turnaround", "values": ["2-5 business days", "1-3 business days", "Priority lane"] },
+      { "type": "row", "title": "Active Requests", "values": ["1", "1", "2"] },
+      { "type": "section", "title": "Services Included" },
+      { "type": "row", "title": "UI/UX Design", "values": ["check", "check", "check"] },
+      { "type": "row", "title": "Web Development", "values": ["check", "check", "check"] },
+      { "type": "row", "title": "SEO Support", "values": ["times", "check", "check"] },
+      { "type": "row", "title": "Digital Marketing Execution", "values": ["times", "check", "check"] },
+      { "type": "row", "title": "E-commerce Optimization", "values": ["times", "check", "check"] },
+      { "type": "section", "title": "Team and Support" },
+      { "type": "row", "title": "Dedicated Project Manager", "values": ["check", "check", "check"] },
+      { "type": "row", "title": "Dedicated Account Manager", "values": ["times", "times", "check"] },
+      { "type": "row", "title": "Support Channel", "values": ["Email + Chat", "Priority Email + Chat", "Priority + Strategy Calls"] },
+      { "type": "section", "title": "Flexibility" },
+      { "type": "row", "title": "Pause or Cancel Anytime", "values": ["check", "check", "check"] }
+    ]
+  },
+  "pricingAddons": [
+    {
+      "id": 1,
+      "icon": "website",
+      "title": "Landing Page Pack",
+      "description": "High-converting landing pages for campaigns, launches, and paid traffic funnels.",
+      "priceLabel": "STARTING AT",
+      "price": "₹12,000"
+    },
+    {
+      "id": 2,
+      "icon": "communication",
+      "title": "Paid Ads Setup",
+      "description": "Campaign structure, creatives, and conversion tracking setup for Meta and Google Ads.",
+      "priceLabel": "STARTING AT",
+      "price": "₹18,000"
+    },
+    {
+      "id": 3,
+      "icon": "pharmacy",
+      "title": "Brand Sprint",
+      "description": "Rapid branding package covering messaging direction, visual style, and key assets.",
+      "priceLabel": "STARTING AT",
+      "price": "₹20,000"
+    },
+    {
+      "id": 4,
+      "icon": "credits",
+      "title": "SEO Booster",
+      "description": "Technical fixes, keyword mapping, and on-page optimization to improve organic traffic.",
+      "priceLabel": "STARTING AT",
+      "price": "₹15,000"
+    }
+  ],
+  "pricingPageCopy": {
+    "breadcrumbTitle": "Flexible retainers built for OCMONO clients.",
+    "breadcrumbDescription": "Choose the right OCMONO plan for your current stage, and scale design, development, and marketing as you grow.",
+    "compareTitle": "Compare OCMONO plans",
+    "compareDescription": "See what is included in Part-time, Full-time, and Your own team to pick the right execution model.",
+    "featureTitle": "Features and services",
+    "addonsTitle": "Optional add-ons to extend your growth stack",
+    "addonsDescription": "Add focused support for launch campaigns, branding, SEO, and paid growth whenever needed.",
+    "faqTitle": "Pricing questions, answered",
+    "faqDescription": "Everything you need to know before starting with OCMONO.",
+    "ctaTitle": "Ready to scale with OCMONO?",
+    "ctaDescription": "Book a discovery call and we will map the best plan for your goals, timeline, and team setup."
+  },
+  "pricingHeroBenefits": [
+    { "id": 1, "icon": "fa-rocket", "text": "Fast delivery with clear weekly execution priorities." },
+    { "id": 2, "icon": "fa-globe", "text": "Design, development, SEO, and marketing under one team." },
+    { "id": 3, "icon": "fa-shield-check", "text": "Predictable retainers with transparent scope and communication." }
+  ],
+  "pricingHeroCards": {
+    "monthly": [
+      {
+        "id": 1,
+        "title": "Part-time",
+        "description": "Great for brands that need consistent execution each month.",
+        "price": "2,450",
+        "period": "month",
+        "btnText": "Get Part-time",
+        "cls": "",
+        "icon": "/assets/img/price/price-icon-1.png",
+        "features": [
+          "Design and development support",
+          "Dedicated project manager",
+          "1 active request at a time",
+          "Pause or cancel anytime"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Full-time",
+        "description": "Best for growing teams that need faster and broader delivery.",
+        "price": "3,950",
+        "period": "month",
+        "btnText": "Get Full-time",
+        "cls": "active",
+        "popular": true,
+        "icon": "/assets/img/price/price-icon-2.png",
+        "features": [
+          "Everything in Part-time",
+          "SEO and marketing execution",
+          "E-commerce support",
+          "Priority delivery queue"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Your own team",
+        "description": "Dedicated pod for high-growth brands and ongoing campaigns.",
+        "price": "5,450",
+        "period": "month",
+        "btnText": "Get Your Team",
+        "cls": "",
+        "icon": "/assets/img/price/price-icon-3.png",
+        "features": [
+          "Everything in Full-time",
+          "2 active requests at a time",
+          "Dedicated account manager",
+          "Strategic growth planning"
+        ]
+      }
+    ],
+    "yearly": [
+      {
+        "id": 1,
+        "title": "Part-time",
+        "description": "Great for brands that need consistent execution each month.",
+        "price": "24,500",
+        "period": "year",
+        "btnText": "Get Part-time",
+        "cls": "",
+        "icon": "/assets/img/price/price-icon-1.png",
+        "features": [
+          "Design and development support",
+          "Dedicated project manager",
+          "1 active request at a time",
+          "Pause or cancel anytime"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Full-time",
+        "description": "Best for growing teams that need faster and broader delivery.",
+        "price": "39,500",
+        "period": "year",
+        "btnText": "Get Full-time",
+        "cls": "active",
+        "popular": true,
+        "icon": "/assets/img/price/price-icon-2.png",
+        "features": [
+          "Everything in Part-time",
+          "SEO and marketing execution",
+          "E-commerce support",
+          "Priority delivery queue"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Your own team",
+        "description": "Dedicated pod for high-growth brands and ongoing campaigns.",
+        "price": "54,500",
+        "period": "year",
+        "btnText": "Get Your Team",
+        "cls": "",
+        "icon": "/assets/img/price/price-icon-3.png",
+        "features": [
+          "Everything in Full-time",
+          "2 active requests at a time",
+          "Dedicated account manager",
+          "Strategic growth planning"
+        ]
+      }
+    ]
+  },
+  "pricingFaqs": [
+    {
+      "id": 1,
+      "question": "Can I switch plans later?",
+      "answer": "Yes. You can move between plans as your workload changes, and we align transition at the next billing cycle."
+    },
+    {
+      "id": 2,
+      "question": "Do you support one-off projects too?",
+      "answer": "Yes. Alongside retainers, OCMONO also handles one-off branding, website, and campaign projects with custom scope."
+    },
+    {
+      "id": 3,
+      "question": "How quickly can we start?",
+      "answer": "Most teams can start within a few business days after kickoff and scope confirmation."
+    },
+    {
+      "id": 4,
+      "question": "What channels do you use for communication?",
+      "answer": "We work via shared project boards, chat, and scheduled calls so your team always has clear visibility."
+    },
+    {
+      "id": 5,
+      "question": "Is there a lock-in contract?",
+      "answer": "No hard lock-in for monthly plans. You can pause or cancel based on your priorities."
+    },
+    {
+      "id": 6,
+      "question": "Can OCMONO work with our in-house team?",
+      "answer": "Absolutely. We plug into your existing workflows and collaborate as an extension of your internal team."
+    }
+  ]
+}

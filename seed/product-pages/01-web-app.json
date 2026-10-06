@@ -1,0 +1,13 @@
+{
+  "category": "apps-tools",
+  "title": "Web App",
+  "slug": "web-app",
+  "description": "Access from any browser",
+  "content": "<p>Run ClinicPro from any modern browser—no installs required. Manage appointments, records, billing, and team workflows from a secure cloud workspace that stays in sync across your clinic.</p><ul><li>Works on desktop and laptop browsers</li><li>Role-based access for your whole team</li><li>Always up to date with the latest features</li></ul>",
+  "icon": "web",
+  "link": null,
+  "sort_order": 0,
+  "status": "published",
+  "meta_title": "ClinicPro Web App",
+  "meta_description": "Access ClinicPro clinic management software from any browser."
+}

@@ -1,0 +1,13 @@
+{
+  "title": "General Physicians",
+  "slug": "general-physicians",
+  "description": "Comprehensive clinic management solution for general practitioners and family medicine specialists.",
+  "image": "/assets/img/speciality/general-physician.png",
+  "mega_menu_column": 0,
+  "sort_order": 1,
+  "show_on_homepage": true,
+  "animation_delay": ".3s",
+  "status": "published",
+  "meta_title": "ClinicPro for General Physicians",
+  "meta_description": "Practice management software for general physicians and family medicine clinics."
+}

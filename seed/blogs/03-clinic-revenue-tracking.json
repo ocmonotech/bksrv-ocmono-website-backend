@@ -1,0 +1,45 @@
+{
+  "title": "Clinic Revenue Tracking: 8 Metrics to Review Every Month",
+  "slug": "clinic-revenue-tracking-monthly-metrics",
+  "excerpt": "Revenue visibility is not just for accountants. These eight metrics help clinic owners spot leakage, improve collections, and plan staffing with confidence.",
+  "cover_image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80",
+  "og_image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80",
+  "author": "ClinicPro Team",
+  "category": "Resources",
+  "status": "published",
+  "published_at": "2026-05-28T08:00:00",
+  "meta_title": "Clinic Revenue Tracking Metrics | Monthly Finance Checklist",
+  "meta_description": "Eight clinic revenue metrics to review monthly: collections, outstanding dues, visit volume, package utilization, and more. A practical finance checklist for owners.",
+  "meta_keywords": "clinic revenue tracking, medical billing metrics, clinic finance dashboard, healthcare revenue management, clinic KPIs",
+  "canonical_url": "/blog/clinic-revenue-tracking-monthly-metrics",
+  "schema_json": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Clinic Revenue Tracking: 8 Metrics to Review Every Month",
+    "description": "Revenue visibility is not just for accountants. These eight metrics help clinic owners spot leakage, improve collections, and plan staffing with confidence.",
+    "image": [
+      "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
+    ],
+    "author": {
+      "@type": "Organization",
+      "name": "ClinicPro Team"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ClinicPro by ocmono",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://ocmono.com/assets/img/logo/logo-black.png"
+      }
+    },
+    "datePublished": "2026-05-28T08:00:00+00:00",
+    "dateModified": "2026-05-28T08:00:00+00:00",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://ocmono.com/blog/clinic-revenue-tracking-monthly-metrics"
+    },
+    "articleSection": "Resources",
+    "keywords": "clinic revenue tracking, clinic finance, billing metrics"
+  },
+  "content": "<h2>Why monthly beats quarterly for clinic finances</h2><p>Healthcare cash flow shifts quickly—seasonal illness, practitioner leave, and package renewals all show up within weeks. A monthly review catches issues while they are still easy to fix.</p><figure class=\"blog-detail__figure\"><img src=\"https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=960&q=80\" alt=\"Clinic revenue dashboard and analytics charts\" loading=\"lazy\" /><figcaption>Dashboards turn daily transactions into decisions owners can act on immediately.</figcaption></figure><h2>Eight metrics worth a standing monthly review</h2><ol><li><strong>Gross collections</strong> vs. prior month and same month last year</li><li><strong>Outstanding dues</strong> aged 30 / 60 / 90 days</li><li><strong>Average revenue per visit</strong> by doctor and service line</li><li><strong>Appointment utilization</strong> (booked vs. available slots)</li><li><strong>No-show and cancellation rate</strong> (linked to reminder performance)</li><li><strong>Package and membership redemption</strong></li><li><strong>Pharmacy and retail attach rate</strong> where applicable</li><li><strong>Refund and adjustment volume</strong> with reasons tagged</li></ol><h3>Turn insight into action</h3><p>For each metric, assign one owner and one threshold that triggers a workflow. Example: if 60-day dues rise 15%, billing lead runs a structured follow-up list every Friday.</p><h2>Connect clinical and financial data</h2><p>When EMR, appointments, and billing live in separate systems, reconciliation becomes manual work. Unified clinic software reduces gaps between services delivered and invoices raised.</p><p>ClinicPro’s revenue dashboard is designed for operators—not only finance teams—so doctors and managers share the same numbers in weekly huddles.</p>"
+}

@@ -1,0 +1,69 @@
+{
+  "brand": {
+    "description": "Dual-pillar growth company — performance marketing that fills the pipeline, and SaaS products operators run every day.",
+    "pillars": ["Agency", "Products"],
+    "email": "contact@ocmono.com",
+    "phone": "+91 8850 533614",
+    "phoneHref": "tel:+918850533614",
+    "address": "Shop No: 36, R4/A, Vaishnavi Society, Nesco Colony, W. E. Highway, Goregaon East, Mumbai 400063"
+  },
+  "columns": [
+    {
+      "title": "Agency",
+      "links": [
+        { "label": "All services", "href": "/services" },
+        { "label": "Performance Marketing", "href": "/services/performance-marketing" },
+        { "label": "SEO & Local", "href": "/services/seo-local" },
+        { "label": "Web & Funnels", "href": "/services/web-funnels" },
+        { "label": "How we work", "href": "/#process" }
+      ]
+    },
+    {
+      "title": "Products",
+      "links": [
+        { "label": "All products", "href": "/products" },
+        { "label": "ClinicPro", "href": "/products/clinicpro" },
+        { "label": "MenuBip", "href": "/products/menubip" },
+        { "label": "HotelPro", "href": "/products/hotelpro" },
+        { "label": "LeadStack", "href": "/products/leadstack" }
+      ]
+    },
+    {
+      "title": "Company",
+      "links": [
+        { "label": "About OCMONO", "href": "/about" },
+        { "label": "Blog & insights", "href": "/blog" },
+        { "label": "Contact", "href": "/contact" },
+        { "label": "Book a strategy call", "href": "/contact" }
+      ]
+    },
+    {
+      "title": "Legal",
+      "links": [
+        { "label": "Privacy Policy", "href": "/privacy" },
+        { "label": "Terms of Use", "href": "/terms" },
+        { "label": "Start a project", "href": "/contact" }
+      ]
+    }
+  ],
+  "newsletter": {
+    "eyebrow": "Stay in the loop",
+    "title": "Product & growth notes",
+    "description": "Occasional updates on SaaS releases, campaigns that convert, and operator tips — no spam."
+  },
+  "meta": [
+    { "label": "Office hours", "value": "Mon–Fri · 10:00–18:00 IST" },
+    { "label": "Based in", "value": "Goregaon East, Mumbai" }
+  ],
+  "copyright": "OCMONO Avenues Pvt Ltd",
+  "bottomLinks": [
+    { "label": "Privacy", "href": "/privacy" },
+    { "label": "Terms", "href": "/terms" }
+  ],
+  "socialLinks": [
+    { "label": "Facebook", "href": "https://www.facebook.com/theocmono", "icon": "fab fa-facebook-f" },
+    { "label": "Instagram", "href": "https://www.instagram.com/theocmono/", "icon": "fab fa-instagram" },
+    { "label": "YouTube", "href": "https://www.youtube.com/@OCMONOTech", "icon": "fab fa-youtube" },
+    { "label": "LinkedIn", "href": "https://www.linkedin.com/company/ocmono", "icon": "fab fa-linkedin-in" }
+  ]
+}

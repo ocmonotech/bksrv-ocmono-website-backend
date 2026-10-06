@@ -1,0 +1,13 @@
+{
+  "title": "Twilio SMS",
+  "slug": "twilio-sms",
+  "description": "Reliable SMS delivery for appointment alerts, OTP verification, and patient notifications.",
+  "content": "<p>Use Twilio to send transactional SMS for appointment confirmations, no-show follow-ups, and billing reminders.</p>",
+  "logo": "/assets/img/integration/integration-4.png",
+  "category": "Communications",
+  "external_url": "https://www.twilio.com",
+  "card_color": 4,
+  "sort_order": 4,
+  "show_in_carousel": true,
+  "status": "published"
+}

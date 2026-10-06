@@ -1,0 +1,22 @@
+[
+  {
+    "id": "all",
+    "label": "All"
+  },
+  {
+    "id": "resources",
+    "label": "Resources"
+  },
+  {
+    "id": "product-updates",
+    "label": "Product Updates"
+  },
+  {
+    "id": "clinic-growth",
+    "label": "Clinic Growth"
+  },
+  {
+    "id": "patient-care",
+    "label": "Patient Care"
+  }
+]

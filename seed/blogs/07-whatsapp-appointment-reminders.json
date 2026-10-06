@@ -1,0 +1,34 @@
+{
+  "title": "WhatsApp Appointment Reminders: What Works for Indian Clinics",
+  "slug": "whatsapp-appointment-reminders-indian-clinics",
+  "excerpt": "WhatsApp is often the highest-response channel for Indian patients. Here is how to design compliant, clear reminder messages that reduce no-shows without feeling spammy.",
+  "cover_image": "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=1200&q=80",
+  "og_image": "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=1200&q=80",
+  "author": "ClinicPro Team",
+  "category": "Clinic Growth",
+  "status": "published",
+  "published_at": "2026-07-01T09:00:00",
+  "meta_title": "WhatsApp Appointment Reminders for Clinics | India Guide",
+  "meta_description": "Best practices for WhatsApp clinic appointment reminders in India: message templates, timing, consent, and automation tips to cut no-shows.",
+  "meta_keywords": "WhatsApp clinic reminders, appointment reminders India, patient communication, clinic WhatsApp automation, reduce no-shows",
+  "canonical_url": "/blog/whatsapp-appointment-reminders-indian-clinics",
+  "schema_json": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "WhatsApp Appointment Reminders: What Works for Indian Clinics",
+    "description": "WhatsApp is often the highest-response channel for Indian patients. Here is how to design compliant, clear reminder messages that reduce no-shows without feeling spammy.",
+    "image": ["https://images.unsplash.com/photo-1573164713988-8665fc963095?w=1200&q=80"],
+    "author": { "@type": "Organization", "name": "ClinicPro Team" },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ClinicPro by ocmono",
+      "logo": { "@type": "ImageObject", "url": "https://ocmono.com/assets/img/logo/logo-black.png" }
+    },
+    "datePublished": "2026-07-01T09:00:00+00:00",
+    "dateModified": "2026-07-01T09:00:00+00:00",
+    "mainEntityOfPage": { "@type": "WebPage", "@id": "https://ocmono.com/blog/whatsapp-appointment-reminders-indian-clinics" },
+    "articleSection": "Clinic Growth",
+    "keywords": "WhatsApp reminders, clinic appointments, India"
+  },
+  "content": "<h2>Meet patients on the channel they already use</h2><p>For many clinics in India, WhatsApp outperforms email and even SMS for confirmations—especially when messages include the doctor name, clinic location pin, and a one-tap reschedule option.</p><figure class=\"blog-detail__figure\"><img src=\"https://images.unsplash.com/photo-1573164713988-8665fc963095?w=960&q=80\" alt=\"Patient reading appointment reminder on smartphone\" loading=\"lazy\" /><figcaption>Short, actionable messages beat long paragraphs every time.</figcaption></figure><h2>Message design principles</h2><ul><li>Lead with the clinic name and appointment date/time in the first line</li><li>Include Google Maps link or landmark for first-time visitors</li><li>Offer one clear action: confirm, reschedule, or call the desk</li><li>Keep prep instructions to three bullets maximum</li></ul><h3>Suggested timing</h3><ol><li>Immediately after booking: confirmation + intake link</li><li>48 hours before: reminder with address</li><li>3 hours before: final nudge for same-day traffic</li></ol><h2>Consent and professionalism</h2><p>Capture messaging consent during registration and explain what types of messages patients will receive. Avoid promotional content in clinical reminder threads—keep transactional messages separate from marketing campaigns.</p><p>ClinicPro supports automated WhatsApp and SMS reminders tied to your live calendar, so staff are not copying numbers into personal phones at the end of each day.</p>"
+}

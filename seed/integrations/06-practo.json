@@ -1,0 +1,13 @@
+{
+  "title": "Practo",
+  "slug": "practo",
+  "description": "Sync online appointments and patient inquiries from Practo into your ClinicPro calendar.",
+  "content": "<p>Consolidate Practo bookings with in-clinic scheduling to reduce double entry and missed appointments.</p>",
+  "logo": "/assets/img/integration/integration-6.png",
+  "category": "Patient acquisition",
+  "external_url": "https://www.practo.com",
+  "card_color": 2,
+  "sort_order": 6,
+  "show_in_carousel": true,
+  "status": "published"
+}

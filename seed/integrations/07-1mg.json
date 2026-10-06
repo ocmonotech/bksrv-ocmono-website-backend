@@ -1,0 +1,13 @@
+{
+  "title": "1mg",
+  "slug": "1mg",
+  "description": "Connect pharmacy inventory and e-prescriptions with 1mg for faster medicine fulfilment.",
+  "content": "<p>Link ClinicPro prescriptions and stock levels with 1mg to streamline pharmacy operations.</p>",
+  "logo": "/assets/img/integration/integration-7.png",
+  "category": "Pharmacy",
+  "external_url": "https://www.1mg.com",
+  "card_color": 3,
+  "sort_order": 7,
+  "show_in_carousel": false,
+  "status": "published"
+}

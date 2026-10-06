@@ -1,0 +1,13 @@
+{
+  "title": "Razorpay",
+  "slug": "razorpay",
+  "description": "Accept UPI, cards, and net banking with automated payment reconciliation for clinic billing.",
+  "content": "<p>Connect Razorpay to ClinicPro for seamless online payments, subscription billing, and automated invoice settlement.</p>",
+  "logo": "/assets/img/integration/integration-1.png",
+  "category": "Payments",
+  "external_url": "https://razorpay.com",
+  "card_color": 1,
+  "sort_order": 1,
+  "show_in_carousel": true,
+  "status": "published"
+}

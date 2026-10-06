@@ -1,0 +1,23 @@
+{
+  "services": {
+    "eyebrow": "Agency pillar",
+    "title": "Performance marketing that fills the pipeline",
+    "lead": "Paid media, SEO & local, conversion creative, and funnels — engineered for leads, bookings, and ROAS. Design and brand support the growth system.",
+    "metaTitle": "Services — Performance Marketing & Growth | OCMONO",
+    "metaDescription": "Performance marketing, SEO & local, conversion creative, and web funnels from OCMONO."
+  },
+  "work": {
+    "eyebrow": "Proof",
+    "title": "Work measured in leads, bookings & launches",
+    "lead": "Selected projects where performance marketing and product rollouts moved real business metrics — not just aesthetics.",
+    "metaTitle": "Our Work — Growth Case Studies | OCMONO",
+    "metaDescription": "Case studies focused on leads, ROAS, bookings, and SaaS rollouts delivered by OCMONO."
+  },
+  "products": {
+    "eyebrow": "SaaS products",
+    "title": "Software we build and operate",
+    "lead": "Industry platforms from OCMONO — live products you can use today, plus upcoming tools for hospitality, HR, CRM, and high-intent lead ops.",
+    "metaTitle": "Products — OCMONO SaaS Software Suite",
+    "metaDescription": "Explore OCMONO SaaS products: ClinicPro, MenuBip, HotelPro, HRMS, CRM, and LeadStack. Live software and upcoming platforms."
+  }
+}

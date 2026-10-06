@@ -1,0 +1,72 @@
+{
+  "pageCopy": {
+    "eyebrow": "CONTACT CLINICPRO",
+    "title": "Let's build better clinic experiences together.",
+    "description": "Reach out for product demos, onboarding support, partnership conversations, or any questions about ClinicPro. Our team typically responds within one business day.",
+    "officeEyebrow": "Visit our office",
+    "officeTitle": "ClinicPro Headquarters",
+    "officeAddress": "Mumbai, India",
+    "officePhone": "+91 8850533614",
+    "officePhoneHref": "tel:+918850533614",
+    "officeEmail": "contact@clinicpro.cc",
+    "officeEmailHref": "mailto:contact@clinicpro.cc",
+    "formTitle": "We'd love to hear from you.",
+    "formDescription": "Tell us about your clinic and what you're looking for. We'll route your request to the right person on our team.",
+    "ctaTitle": "Ready to see ClinicPro in action?",
+    "ctaDescription": "Book a personalized walkthrough and explore how ClinicPro can simplify your clinic operations.",
+    "ctaButton": "Book a demo"
+  },
+  "quickLinks": [
+    {
+      "id": "email",
+      "label": "Email",
+      "value": "contact@clinicpro.cc",
+      "href": "mailto:contact@clinicpro.cc",
+      "icon": "fal fa-envelope"
+    },
+    {
+      "id": "phone",
+      "label": "Phone",
+      "value": "+91 8850533614",
+      "href": "tel:+918850533614",
+      "icon": "fal fa-phone-alt"
+    },
+    {
+      "id": "location",
+      "label": "Location",
+      "value": "Mumbai, India",
+      "href": "https://www.google.com/maps/place/Mumbai,+Maharashtra,+India",
+      "icon": "fal fa-map-marker-alt"
+    }
+  ],
+  "inquiryTypes": [
+    {
+      "value": "",
+      "label": "Select service type"
+    },
+    {
+      "value": "performance-marketing",
+      "label": "Performance Marketing"
+    },
+    {
+      "value": "digital-marketing",
+      "label": "Digital Marketing"
+    },
+    {
+      "value": "custom-software-development",
+      "label": "Custom Software Development"
+    },
+    {
+      "value": "web-development",
+      "label": "Web Development"
+    },
+    {
+      "value": "brand-strategy",
+      "label": "Brand Strategy"
+    },
+    {
+      "value": "saas-development",
+      "label": "Saas Development"
+    }
+  ]
+}

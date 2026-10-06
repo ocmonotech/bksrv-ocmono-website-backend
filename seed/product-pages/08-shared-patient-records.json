@@ -1,0 +1,13 @@
+{
+  "category": "multi-clinic",
+  "title": "Shared Patient Records",
+  "slug": "shared-patient-records",
+  "description": "Access consistent patient history across every location.",
+  "content": "<p>Give clinicians the full patient story no matter which branch they visit. Shared records reduce duplicate charts, improve continuity of care, and keep documentation consistent across your network.</p>",
+  "icon": null,
+  "link": null,
+  "sort_order": 1,
+  "status": "published",
+  "meta_title": "Shared Patient Records Across Clinics",
+  "meta_description": "Access consistent patient history across every ClinicPro location."
+}

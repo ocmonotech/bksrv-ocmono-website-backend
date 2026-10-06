@@ -1,0 +1,13 @@
+{
+  "title": "Dentists",
+  "slug": "dentists",
+  "description": "Specialized dental practice management with treatment planning and procedure tracking.",
+  "image": "/assets/img/speciality/dentist.png",
+  "mega_menu_column": 0,
+  "sort_order": 4,
+  "show_on_homepage": true,
+  "animation_delay": ".6s",
+  "status": "published",
+  "meta_title": "ClinicPro for Dentists",
+  "meta_description": "Dental clinic software with treatment planning, procedure tracking, and billing."
+}

@@ -1,0 +1,65 @@
+{
+  "eyebrow": "Legal",
+  "title": "Privacy Policy",
+  "lead": "How OCMONO Avenues Pvt Ltd collects, uses, and protects information when you use our websites, products, and services.",
+  "updated": "3 August 2026",
+  "sections": [
+    {
+      "heading": "Who we are",
+      "paragraphs": [
+        "OCMONO Avenues Pvt Ltd (“OCMONO”, “we”, “us”) operates ocmono.com and related product sites. We provide performance marketing services and SaaS products including ClinicPro, MenuBip, and related platforms.",
+        "Registered office: Shop No: 36, R4/A, Vaishnavi Society, Nesco Colony, W. E. Highway, Goregaon East, Mumbai 400063, Maharashtra, India."
+      ]
+    },
+    {
+      "heading": "Information we collect",
+      "paragraphs": [
+        "We collect information you provide directly and information generated when you use our sites or products."
+      ],
+      "bullets": [
+        "Contact details such as name, email, phone, company, and message content from forms or strategy-call bookings",
+        "Product demo, waitlist, and newsletter subscription details",
+        "Account and billing information when you use our SaaS products (handled under each product’s terms)",
+        "Usage data such as pages visited, device/browser type, approximate location, and referral source",
+        "Cookies and similar technologies for analytics, preferences, and marketing measurement"
+      ]
+    },
+    {
+      "heading": "How we use information",
+      "paragraphs": [
+        "We use personal information to:"
+      ],
+      "bullets": [
+        "Respond to enquiries and schedule demos or strategy calls",
+        "Provide, improve, and support our websites, campaigns, and SaaS products",
+        "Send product or growth updates you opted into (you can unsubscribe anytime)",
+        "Measure performance of marketing and site experience",
+        "Meet legal, security, and fraud-prevention obligations"
+      ]
+    },
+    {
+      "heading": "Sharing",
+      "paragraphs": [
+        "We do not sell your personal information. We may share data with trusted processors who help us run email, hosting, analytics, payments, or advertising — under contracts that require appropriate protection. We may also disclose information when required by law or to protect rights, safety, and our services."
+      ]
+    },
+    {
+      "heading": "Retention & security",
+      "paragraphs": [
+        "We keep information only as long as needed for the purposes above, including legal and accounting requirements. We apply reasonable technical and organisational measures to protect data; no method of transmission or storage is completely secure."
+      ]
+    },
+    {
+      "heading": "Your choices",
+      "paragraphs": [
+        "You may request access, correction, or deletion of personal information we hold about you, subject to applicable law. Contact contact@ocmono.com. You can also opt out of marketing emails via the unsubscribe link in those messages."
+      ]
+    },
+    {
+      "heading": "Contact",
+      "paragraphs": [
+        "For privacy questions: contact@ocmono.com · +91 8850 533614 · Goregaon East, Mumbai."
+      ]
+    }
+  ]
+}

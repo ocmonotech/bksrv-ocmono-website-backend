@@ -1,0 +1,13 @@
+{
+  "category": "apps-tools",
+  "title": "Mobile App",
+  "slug": "mobile-app",
+  "description": "iOS & Android available",
+  "content": "<p>Stay connected on the go with the ClinicPro mobile app for iOS and Android. Check schedules, respond to patients, and keep your practice moving—even when you are away from the desk.</p><ul><li>Native apps for iPhone and Android</li><li>Push notifications for appointments and alerts</li><li>Secure access to key clinic workflows</li></ul>",
+  "icon": "mobile",
+  "link": null,
+  "sort_order": 1,
+  "status": "published",
+  "meta_title": "ClinicPro Mobile App",
+  "meta_description": "Manage your clinic on the go with ClinicPro for iOS and Android."
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Running Multi-Location Clinics Without Losing Control",
+  "slug": "multi-location-clinic-management-guide",
+  "excerpt": "Adding a second branch should not mean doubling chaos. Learn how owners maintain visibility across locations, staff roles, inventory, and reporting from one dashboard.",
+  "cover_image": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&q=80",
+  "og_image": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&q=80",
+  "author": "Dr. Ananya Mehta",
+  "category": "Clinic Growth",
+  "status": "published",
+  "published_at": "2026-07-08T11:30:00",
+  "meta_title": "Multi-Location Clinic Management Guide | ClinicPro",
+  "meta_description": "How to manage multi-branch clinics: centralized reporting, role-based access, shared patient records, inventory visibility, and owner dashboards.",
+  "meta_keywords": "multi-location clinic, clinic branches, multi-branch software, clinic chain management, centralized clinic reporting",
+  "canonical_url": "/blog/multi-location-clinic-management-guide",
+  "schema_json": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Running Multi-Location Clinics Without Losing Control",
+    "description": "Adding a second branch should not mean doubling chaos. Learn how owners maintain visibility across locations, staff roles, inventory, and reporting from one dashboard.",
+    "image": ["https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&q=80"],
+    "author": { "@type": "Person", "name": "Dr. Ananya Mehta" },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ClinicPro by ocmono",
+      "logo": { "@type": "ImageObject", "url": "https://ocmono.com/assets/img/logo/logo-black.png" }
+    },
+    "datePublished": "2026-07-08T11:30:00+00:00",
+    "dateModified": "2026-07-08T11:30:00+00:00",
+    "mainEntityOfPage": { "@type": "WebPage", "@id": "https://ocmono.com/blog/multi-location-clinic-management-guide" },
+    "articleSection": "Clinic Growth",
+    "keywords": "multi-location clinic, branch management, clinic software"
+  },
+  "content": "<h2>The second branch exposes every weak process</h2><p>What worked with one reception desk often breaks when a second location opens: duplicate patient records, inconsistent pricing, and owners relying on WhatsApp groups for daily numbers.</p><figure class=\"blog-detail__figure\"><img src=\"https://images.unsplash.com/photo-1556761175-b413da4baf72?w=960&q=80\" alt=\"Clinic team reviewing multi-branch operations dashboard\" loading=\"lazy\" /><figcaption>Owners need branch-level detail and group-level summaries in the same view.</figcaption></figure><h2>What to centralize vs. localize</h2><ul><li><strong>Centralize:</strong> patient identity, pricing rules, clinical templates, brand communications</li><li><strong>Localize:</strong> room schedules, branch inventory, on-ground staff roles</li><li><strong>Review weekly:</strong> collections, utilization, and stock exceptions by branch</li></ul><h3>Role design that scales</h3><p>Branch managers see their location. Clinical leads see their practitioners across branches they cover. Owners and finance see consolidated dashboards without accessing every individual chart unnecessarily.</p><h2>Patient experience across branches</h2><p>Patients expect their history to follow them. Unified records prevent repeating intake forms and make referrals between branches feel seamless—especially for diagnostics, follow-ups, and package-based treatments.</p><p>ClinicPro multi-location support connects branches under one workspace while keeping permissions tight and audit trails clear.</p>"
+}

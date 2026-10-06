@@ -1,0 +1,133 @@
+{
+  "category": "saas-product",
+  "title": "ClinicPro",
+  "slug": "clinicpro",
+  "description": "Manage patients, appointments, billing, and clinic financial performance in one connected platform built for healthcare practices.",
+  "content": "<p>Complete clinic management with revenue insights.</p>",
+  "image": "/assets/img/dashboard.png",
+  "link": "https://clinicpro.cc",
+  "sort_order": 1,
+  "status": "published",
+  "meta_title": "ClinicPro — Clinic Management Software | OCMONO",
+  "meta_description": "ClinicPro by OCMONO: patient records, appointments, billing, POS, and revenue insights for clinics. See features and pricing.",
+  "capabilities_json": [
+    {
+      "icon": "heart-pulse",
+      "title": "Patient records",
+      "description": "Unlimited patient profiles with history, documents, and dashboards."
+    },
+    {
+      "icon": "calendar",
+      "title": "Appointments",
+      "description": "Calendar views, custom timings, patient access, and WhatsApp reminders."
+    },
+    {
+      "icon": "credit-card",
+      "title": "Billing & invoices",
+      "description": "Automated billing, invoice tracking, and revenue insights."
+    },
+    {
+      "icon": "smartphone",
+      "title": "Web & mobile",
+      "description": "Access from desktop, tablet, and custom Android apps."
+    },
+    {
+      "icon": "package",
+      "title": "Inventory & POS",
+      "description": "Purchase/sell tracking, cashier accounts, barcode and thermal printer support."
+    },
+    {
+      "icon": "shopping-bag",
+      "title": "Patient shop",
+      "description": "Optional ecommerce shop so patients can buy from your clinic online."
+    }
+  ],
+  "saas_meta_json": {
+    "product_status": "live",
+    "tagline": "Complete clinic management with revenue insights",
+    "industry": "Healthcare",
+    "accent": "#3249b3",
+    "audience": "Clinics, solo practitioners, and multi-location practices",
+    "problem": "Clinics juggle patient records, appointments, billing, and revenue tracking across disconnected tools — losing time and visibility.",
+    "cta_primary": {
+      "label": "Book a demo",
+      "href": "https://clinicpro.cc"
+    },
+    "cta_secondary": {
+      "label": "See pricing",
+      "href": "#pricing"
+    },
+    "deep_features": [
+      {
+        "title": "Run the full clinic day in one place",
+        "text": "From registration to checkout — appointments, prescriptions, accounts, and staff roles stay connected so nothing falls through."
+      },
+      {
+        "title": "Built for any practice model",
+        "text": "Whether you are opening a new practice, running solo, or coordinating a group — ClinicPro scales with your operations."
+      },
+      {
+        "title": "Revenue you can see",
+        "text": "Track financial performance alongside clinical ops so owners and managers act on real numbers, not guesswork."
+      }
+    ],
+    "pricing": {
+      "currency": "INR",
+      "note": "Local taxes (GST, etc.) charged in addition. Prices in ₹ / month.",
+      "plans": [
+        {
+          "id": "standard",
+          "name": "Standard",
+          "price": 1200,
+          "period": "month",
+          "popular": false,
+          "features": [
+            "Custom Android app",
+            "Desktop, mobile & tablet access",
+            "Unlimited patients & WhatsApp reminders",
+            "Unlimited appointments calendar",
+            "Unlimited prescriptions (PDF / print)",
+            "Doctor, reception, patient & admin accounts"
+          ]
+        },
+        {
+          "id": "commerce",
+          "name": "Commerce",
+          "price": 2200,
+          "period": "month",
+          "popular": true,
+          "features": [
+            "Everything in Standard",
+            "Inventory tracking",
+            "POS — cashier, barcode, thermal printer"
+          ]
+        },
+        {
+          "id": "ultimate",
+          "name": "Ultimate",
+          "price": 3200,
+          "period": "month",
+          "popular": false,
+          "features": [
+            "Everything in Commerce",
+            "Full ecommerce shop for patients"
+          ]
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "q": "Who is ClinicPro for?",
+        "a": "New, solo, and group clinics that need appointments, records, billing, and optional POS/ecommerce in one system."
+      },
+      {
+        "q": "Can I try before buying?",
+        "a": "Yes — book a demo on clinicpro.cc and we will walk you through a setup that fits your practice."
+      },
+      {
+        "q": "Does it support multiple locations?",
+        "a": "Yes. Multi-clinic reporting and shared workflows are part of the ClinicPro roadmap for growing groups."
+      }
+    ]
+  }
+}

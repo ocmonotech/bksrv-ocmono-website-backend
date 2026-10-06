@@ -1,0 +1,82 @@
+{
+  "category": "saas-product",
+  "title": "HotelPro",
+  "slug": "hotelpro",
+  "description": "Operate rooms, folios, F&B, and multi-property reporting from one hospitality platform built for resorts and hotel chains.",
+  "content": "<p>Resort & multi-chain hotel management</p>",
+  "image": "/assets/img/project/project-inner-1.jpg",
+  "link": null,
+  "sort_order": 3,
+  "status": "published",
+  "meta_title": "HotelPro — Coming Soon | OCMONO",
+  "meta_description": "HotelPro by OCMONO: Resort & multi-chain hotel management. Join the waitlist for early access.",
+  "capabilities_json": [
+    {
+      "icon": "map-pin",
+      "title": "Multi-property control",
+      "description": "Central oversight across resorts and hotel chains."
+    },
+    {
+      "icon": "layout-dashboard",
+      "title": "Front desk & folio",
+      "description": "Reservations, room folio, minibar, and guest stay ops."
+    },
+    {
+      "icon": "shopping-bag",
+      "title": "In-stay dining",
+      "description": "Pre-arrival dining and in-room ordering workflows."
+    },
+    {
+      "icon": "bar-chart",
+      "title": "Revenue reporting",
+      "description": "Property and chain-level performance views."
+    },
+    {
+      "icon": "users",
+      "title": "Guest CRM hooks",
+      "description": "Loyalty-ready profiles across properties."
+    },
+    {
+      "icon": "plug",
+      "title": "Integrations",
+      "description": "Designed to connect channel managers and payment stacks."
+    }
+  ],
+  "saas_meta_json": {
+    "product_status": "coming_soon",
+    "tagline": "Resort & multi-chain hotel management",
+    "industry": "Hospitality",
+    "accent": "#1e3a5f",
+    "audience": "Resorts, boutique hotels, and multi-chain hospitality groups",
+    "problem": "Multi-property hotels struggle with fragmented PMS, F&B, and reporting tools that do not talk to each other.",
+    "cta_primary": {
+      "label": "Join waitlist",
+      "href": "#waitlist"
+    },
+    "cta_secondary": {
+      "label": "Talk to us",
+      "href": "/contact?type=product-waitlist"
+    },
+    "deep_features": [
+      {
+        "title": "One ops layer for the chain",
+        "text": "Standardize front desk, F&B, and reporting without forcing every property onto disconnected tools."
+      },
+      {
+        "title": "Built for Indian hospitality ops",
+        "text": "GST-ready billing patterns and multi-outlet workflows informed by how resorts actually run."
+      }
+    ],
+    "pricing": null,
+    "faqs": [
+      {
+        "q": "When will HotelPro launch?",
+        "a": "We are building with early hospitality partners. Join the waitlist for launch updates and early access."
+      },
+      {
+        "q": "Can agencies use it for clients?",
+        "a": "Yes — OCMONO can also help with performance marketing and digital funnels for your properties."
+      }
+    ]
+  }
+}

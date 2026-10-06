@@ -1,0 +1,13 @@
+{
+  "title": "WhatsApp Business",
+  "slug": "whatsapp-business",
+  "description": "Send appointment reminders, follow-ups, and billing notifications directly on WhatsApp.",
+  "content": "<p>Automate patient communication with WhatsApp Business API integration for reminders, confirmations, and recall campaigns.</p>",
+  "logo": "/assets/img/integration/integration-2.png",
+  "category": "Communications",
+  "external_url": "https://business.whatsapp.com",
+  "card_color": 2,
+  "sort_order": 2,
+  "show_in_carousel": true,
+  "status": "published"
+}

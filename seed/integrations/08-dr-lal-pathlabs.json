@@ -1,0 +1,13 @@
+{
+  "title": "Dr Lal PathLabs",
+  "slug": "dr-lal-pathlabs",
+  "description": "Order lab tests and receive diagnostic reports directly inside patient records.",
+  "content": "<p>Integrate diagnostic workflows so lab orders, sample tracking, and reports stay attached to each visit.</p>",
+  "logo": "/assets/img/integration/integration-8.png",
+  "category": "Diagnostics",
+  "external_url": "https://www.lalpathlabs.com",
+  "card_color": 4,
+  "sort_order": 8,
+  "show_in_carousel": false,
+  "status": "published"
+}

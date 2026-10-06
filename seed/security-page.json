@@ -1,0 +1,74 @@
+{
+  "hero": {
+    "eyebrow": "CLINICPRO SECURITY",
+    "title": "Confidence for every patient record.",
+    "description": "Protect your clinic with clear permissions, secure sessions, audit-ready activity, and reliable continuity tools — built into the workspace your team already uses.",
+    "cta": "Book a demo"
+  },
+  "intro": {
+    "eyebrow": "SECURITY THAT FITS THE WORKDAY",
+    "title": "Protection that stays connected to care.",
+    "description": "ClinicPro makes security practical: give people the right access, preserve clear visibility, and keep the clinic moving with confidence."
+  },
+  "pillars": [
+    {
+      "icon": "fal fa-user-shield",
+      "title": "Role-based access",
+      "text": "Give every clinician and staff member only the access their role requires.",
+      "tone": "teal"
+    },
+    {
+      "icon": "fal fa-lock-alt",
+      "title": "Protected patient data",
+      "text": "Keep records private with secure sessions, granular permissions, and encrypted workflows.",
+      "tone": "violet"
+    },
+    {
+      "icon": "fal fa-history",
+      "title": "Complete audit trail",
+      "text": "Review important activity across records, billing, settings, and user access.",
+      "tone": "pink"
+    },
+    {
+      "icon": "fal fa-cloud-download",
+      "title": "Reliable backups",
+      "text": "Maintain continuity with monitored backups and clear recovery readiness.",
+      "tone": "gold"
+    },
+    {
+      "icon": "fal fa-mobile-alt",
+      "title": "Session controls",
+      "text": "Monitor active devices and end access when a staff device is no longer trusted.",
+      "tone": "blue"
+    },
+    {
+      "icon": "fal fa-clipboard-check",
+      "title": "Privacy-ready workflows",
+      "text": "Support safer consent, documentation, and information-handling practices.",
+      "tone": "green"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How does ClinicPro protect patient records?",
+      "answer": "ClinicPro is designed around role-based access, protected sessions, audit logs, and secure clinic workflows so sensitive information is visible only to the appropriate team members."
+    },
+    {
+      "question": "Can I control what each staff member can see?",
+      "answer": "Yes. Configure access by role so front-desk staff, practitioners, billing teams, and clinic administrators see the tools and records relevant to their work."
+    },
+    {
+      "question": "Can I review changes made in the platform?",
+      "answer": "Yes. The audit trail gives administrators a clear view of important actions, including access changes, record activity, and configuration updates."
+    },
+    {
+      "question": "What happens when a staff member leaves the clinic?",
+      "answer": "An administrator can immediately remove the member's access and end their active sessions, keeping your workspace protected."
+    }
+  ],
+  "cta": {
+    "title": "Build a more confident clinic.",
+    "description": "Explore a ClinicPro workspace that keeps care, operations, and protection moving together.",
+    "button": "Book a demo"
+  }
+}
